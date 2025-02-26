@@ -1,0 +1,2039 @@
+[
+    {
+        "number": 0,
+        "name_eng": "The Fool",
+        "name_kor": "The Fool",
+        "img": "https://i.imgur.com/xVxe3ap.jpg",
+        "keywords_upright": [
+            "innocence",
+            "new beginnings",
+            "adventure"
+        ],
+        "keywords_reversed": [
+            "recklessness",
+            "carelessness",
+            "immaturity"
+        ],
+        "description_upright": "Represents pure passion for life and boundless possibilities.",
+        "description_reversed": "Warns of the dangers of impulsive actions and a lack of planning.",
+        "love_upright": "Opening your heart to new connections could bring unexpected joy. Surrender to pure emotions without fear, and you might just experience a miracle in love.",
+        "love_reversed": "Be cautious, as impulsive choices might lead to heartache or leave a wrong impression. Acting without forethought could bring regret, so open your heart with care.",
+        "job_upright": "Now’s the time to embrace new challenges boldly. Stepping into the unknown with courage can set the stage for personal growth.",
+        "job_reversed": "Unplanned moves might disrupt your work or erode trust with colleagues. Excessive risk-taking can backfire, so preparation is key.",
+        "money_upright": "New investments or spending could yield surprising opportunities. Approach it with a light heart, but don’t let optimism cloud your judgment.",
+        "money_reversed": "Impulsive spending or risky ventures might lead to financial strain. Keep your adventurous spirit in check and stay grounded in reality.",
+        "advice_upright": "Embrace every possibility with unbridled passion and take bold steps forward. Shed hesitation and leap into action to discover a wider world.",
+        "advice_reversed": "Recklessness without thought can land you in trouble. Guard against over-optimism or naivety, and prepare with a clear eye on reality."
+    },
+    {
+        "number": 1,
+        "name_eng": "The Magician",
+        "name_kor": "The Magician",
+        "img": "https://i.imgur.com/WKWJRue.jpg",
+        "keywords_upright": [
+            "willpower",
+            "creativity",
+            "conscious action"
+        ],
+        "keywords_reversed": [
+            "deception",
+            "lack of ability",
+            "manipulation"
+        ],
+        "description_upright": "Signifies the power to manifest your desires through focused talent.",
+        "description_reversed": "Cautions against overconfidence or misleading others.",
+        "love_upright": "Unleash your full charm to deepen your connection with someone special. Tap into your creativity and initiative to unlock new romantic possibilities.",
+        "love_reversed": "Beware of exaggerating your worth or deceiving your partner, as it could unravel your bond. Without sincerity, true closeness will remain elusive.",
+        "job_upright": "Harness your skills and resources effectively to achieve your goals. Take the lead with confidence and steer your projects toward success.",
+        "job_reversed": "Overambitious plans or inflated goals might expose your weaknesses. Acting without a realistic foundation could amplify problems, so proceed with caution.",
+        "money_upright": "Creative approaches could boost your wealth. Your talents and ideas might spark unexpected gains if you wield them wisely.",
+        "money_reversed": "Watch out for overhyped promises or shady deals that could mislead you. Assess your finances honestly and seek trustworthy opportunities.",
+        "advice_upright": "Trust in your abilities and focus on what you truly want. Stay mindful of your surroundings and make balanced choices for even greater growth.",
+        "advice_reversed": "Letting go of illusions or bravado is essential for real progress. Take an honest look at your capabilities and set achievable goals."
+    },
+    {
+        "number": 2,
+        "name_eng": "The High Priestess",
+        "name_kor": "The High Priestess",
+        "img": "https://i.imgur.com/s2Poj6d.jpg",
+        "keywords_upright": [
+            "intuition",
+            "subconscious",
+            "mystery"
+        ],
+        "keywords_reversed": [
+            "secrets revealed",
+            "doubt",
+            "inner turmoil"
+        ],
+        "description_upright": "Embodies hidden wisdom and intuitive insight.",
+        "description_reversed": "Points to inner conflict or confusion as secrets come to light.",
+        "love_upright": "Your subtle allure and intuition will deepen your understanding of your relationship. Tune into the undercurrents of emotion for a soulful connection.",
+        "love_reversed": "Hidden truths could spark misunderstandings, so don’t shy away from open conversation. Too much caution might widen the gap between you.",
+        "job_upright": "Inner wisdom will guide you to solve complex challenges calmly. Trust your gut—it might lead you to fresh solutions.",
+        "job_reversed": "Missing info or suspicion could stall your work. If inner chaos clouds your mind, seek solid facts to regain clarity.",
+        "money_upright": "You might spot opportunities others overlook, so stay alert. Avoid emotional splurges and manage your finances with steady hands.",
+        "money_reversed": "Unnoticed expenses or secret losses could pile up. Keep a close eye on where your money’s slipping away.",
+        "advice_upright": "Pause before rushing ahead and listen to your inner voice for true answers. Peering beyond the surface will unveil deeper truths.",
+        "advice_reversed": "Buried secrets or emotions might throw you off balance, so lighten your load. Overthinking and hesitation only block your path—proceed with care."
+    },
+    {
+        "number": 3,
+        "name_eng": "The Empress",
+        "name_kor": "The Empress",
+        "img": "https://i.imgur.com/oVJctvh.jpg",
+        "keywords_upright": [
+            "abundance",
+            "nurturing",
+            "creativity"
+        ],
+        "keywords_reversed": [
+            "excess",
+            "instability",
+            "jealousy"
+        ],
+        "description_upright": "Embodies overflowing energy, care, and creative potential.",
+        "description_reversed": "Warns of instability from overprotection or obsession.",
+        "love_upright": "Warm nurturing and rich emotions will bring joy to your partner. Cultivate love with a caring, maternal touch.",
+        "love_reversed": "Overattachment or jealousy could destabilize your bond—keep your emotions in check. Avoid clinging too tightly and maintain a healthy distance.",
+        "job_upright": "Your creativity and abundant ideas will shine at work. Team up with colleagues to make projects flourish.",
+        "job_reversed": "Greed or neglect might stunt your career growth—stay vigilant. Expecting results without steady effort will only disappoint you.",
+        "money_upright": "A comfortable financial flow is within reach, and smart management could amplify your gains. When temptation strikes, remember moderation is your ally.",
+        "money_reversed": "Overspending or poor investments might throw your finances off balance. Sort out what you truly need and adjust your habits accordingly.",
+        "advice_upright": "Be generous and open, tending to those around you while seeking mutual growth. Sharing your abundant energy wisely will bring deep fulfillment.",
+        "advice_reversed": "Putting your needs first or grasping too much could disrupt harmony. A balanced approach will steady your life’s course."
+    },
+    {
+        "number": 4,
+        "name_eng": "The Emperor",
+        "name_kor": "The Emperor",
+        "img": "https://i.imgur.com/D5UeS2r.jpg",
+        "keywords_upright": [
+            "authority",
+            "stability",
+            "structure"
+        ],
+        "keywords_reversed": [
+            "tyranny",
+            "disorder",
+            "stubbornness"
+        ],
+        "description_upright": "Represents leadership grounded in order, stability, and authority.",
+        "description_reversed": "Cautions against misusing power or being rigid.",
+        "love_upright": "With steadfast will and responsibility, you can guide your relationship, offering your partner security. Build trust and plan a shared future.",
+        "love_reversed": "Too much control might stifle your partner—watch out. Love thrives on respect and care, not force.",
+        "job_upright": "Showcase responsibility and structure to secure steady results. Lead with confidence, but don’t overlook team input.",
+        "job_reversed": "Overbearing power or inflexibility could spark friction. Stubbornness slows progress, so tread thoughtfully.",
+        "money_upright": "Managing finances with a system will lay a solid foundation. Stick to a firm plan to avoid major setbacks.",
+        "money_reversed": "Unplanned spending or clinging to control might drain your wealth. Scrutinize your finances and curb impulsive moves.",
+        "advice_upright": "Stay rooted in reality, establish order, and fulfill your duties. Clear goals and resolve will pave a stable path.",
+        "advice_reversed": "Rigid attitudes or arrogance could stir resistance. Be wise and flexible, welcoming other perspectives."
+    },
+    {
+        "number": 5,
+        "name_eng": "The Hierophant",
+        "name_kor": "The Hierophant",
+        "img": "https://i.imgur.com/aJF8sDN.jpg",
+        "keywords_upright": [
+            "tradition",
+            "teaching",
+            "morality"
+        ],
+        "keywords_reversed": [
+            "narrow-mindedness",
+            "rebellion against authority",
+            "unconventionality"
+        ],
+        "description_upright": "Signifies wisdom and guidance within traditional systems or institutions.",
+        "description_reversed": "Reflects frustration or rejection of established norms.",
+        "love_upright": "Embracing traditional values or a steady bond can strengthen your connection. Mutual respect and loyalty will make you each other’s rock.",
+        "love_reversed": "Rigid thinking might stifle love’s freedom—be mindful. Family or societal expectations could also spark tension, so stay cautious.",
+        "job_upright": "Respect workplace norms and heed the wisdom of mentors for growth. Structured learning or guidelines will solidify your foundation.",
+        "job_reversed": "Chafing against the system or defying authority might stir unrest. Struggling to fit in could deepen conflicts—seek balance instead.",
+        "money_upright": "Stable financial planning and tried-and-true methods will safeguard your wealth. Opt for reliable investments over risky gambles.",
+        "money_reversed": "Overly cautious habits might miss chances, or straying from norms could cost you. A balanced outlook is essential.",
+        "advice_upright": "Seek counsel from wise mentors—it’ll serve you well. Honor tradition while carving your own path.",
+        "advice_reversed": "Don’t blindly follow or stubbornly reject guidance—find flexibility. Narrow views won’t lead to truth, so keep an open mind."
+    },
+    {
+        "number": 6,
+        "name_eng": "The Lovers",
+        "name_kor": "The Lovers",
+        "img": "https://i.imgur.com/1UB3ybN.jpg",
+        "keywords_upright": [
+            "love",
+            "harmony",
+            "choice"
+        ],
+        "keywords_reversed": [
+            "conflict",
+            "separation",
+            "disharmony"
+        ],
+        "description_upright": "Represents deep bonds, harmonious unions, or pivotal decisions.",
+        "description_reversed": "Points to relationship strife or indecision.",
+        "love_upright": "A profound emotional connection is possible, filling your days with love’s joy. Facing a big choice? Weigh what your heart truly craves.",
+        "love_reversed": "Clashes or misunderstandings might strain your bond—talk it out. If you’re wavering on a love decision, be honest with yourself.",
+        "job_upright": "Partnerships or teamwork will flow smoothly, paving the way for big wins. Build trust and aim for shared goals.",
+        "job_reversed": "Disagreements or friction could derail projects—look for common ground. Pride might fracture collaboration, so keep it in check.",
+        "money_upright": "Joint ventures or financial alliances could thrive, splitting profits fairly. Ensure trust is rock-solid in money matters.",
+        "money_reversed": "Financial disputes might sour relationships—proceed carefully. Clear agreements and paperwork are a must.",
+        "advice_upright": "Face your desires head-on and choose wisely, while hearing others out. Love and trust are the roots of fruitful outcomes.",
+        "advice_reversed": "Doubt and discord can weigh you down if they fester—watch out. Open your heart and approach with honesty to untangle knots."
+    },
+    {
+        "number": 7,
+        "name_eng": "The Chariot",
+        "name_kor": "The Chariot",
+        "img": "https://i.imgur.com/CaAzw8w.jpg",
+        "keywords_upright": [
+            "willpower",
+            "victory",
+            "progress"
+        ],
+        "keywords_reversed": [
+            "frustration",
+            "obsession",
+            "loss of direction"
+        ],
+        "description_upright": "Signifies triumph through strong drive and confidence.",
+        "description_reversed": "Warns of missing your mark or being stalled by fixation.",
+        "love_upright": "Actively sharing your feelings could lead to a romantic win. Don’t hold back—seize love with boldness.",
+        "love_reversed": "Greed or arguments might throw your emotions off balance—curb excessive rivalry. Ignoring your partner’s needs could wreck things.",
+        "job_upright": "With fierce determination, you’re poised for workplace success. Focus on your aims and charge toward big achievements.",
+        "job_reversed": "Losing focus or rushing headlong might lead to flops. Unchecked ambition could worsen matters.",
+        "money_upright": "Now’s the time to chase bold investments or income streams. Act with confidence, but don’t overreach.",
+        "money_reversed": "Greed and haste could cost you—take a breather. Rushing without a plan might destabilize your finances.",
+        "advice_upright": "Set clear targets and push forward relentlessly for rewarding results. Courage and decisiveness will conquer obstacles and fuel growth.",
+        "advice_reversed": "Hold off on charging ahead—reassess your course. Losing inner balance might leave you spinning your wheels, so adjust your pace."
+    },
+    {
+        "number": 8,
+        "name_eng": "Strength",
+        "name_kor": "Strength",
+        "img": "https://i.imgur.com/hOhoyIf.jpg",
+        "keywords_upright": [
+            "courage",
+            "patience",
+            "self-control"
+        ],
+        "keywords_reversed": [
+            "weakness",
+            "fear",
+            "lethargy"
+        ],
+        "description_upright": "Symbolizes overcoming trials with inner courage and compassion.",
+        "description_reversed": "Points to vulnerability to fear or negativity.",
+        "love_upright": "With gentle patience and a warm embrace, you can navigate love’s challenges. Guide your partner with respect to forge a stronger tie.",
+        "love_reversed": "Built-up fear or anger might spiral out of control, endangering your bond. Overdefensiveness could lock your heart—stay mindful.",
+        "job_upright": "Even in tough spots, persistence and patience will yield positive outcomes. Quiet confidence will earn you trust.",
+        "job_reversed": "Lack of confidence or stress might hinder your performance. Unresolved inner struggles could sap your efficiency.",
+        "money_upright": "Keep calm amid financial unease, and crises can turn into opportunities. Steady restraint will pave the way to stability.",
+        "money_reversed": "Anxiety-driven moves might botch your money management. Avoid rash choices and hold onto your cool-headedness.",
+        "advice_upright": "Believe in your inner strength and approach gently. A soft touch, not force, reveals true power.",
+        "advice_reversed": "Uncontrolled emotions will only harm you—rein them in. Don’t rush; find peace within to move forward."
+    },
+    {
+        "number": 9,
+        "name_eng": "The Hermit",
+        "name_kor": "The Hermit",
+        "img": "https://i.imgur.com/X5xe4t2.jpg",
+        "keywords_upright": [
+            "solitude",
+            "seeking",
+            "inner reflection"
+        ],
+        "keywords_reversed": [
+            "isolation",
+            "alienation",
+            "depression"
+        ],
+        "description_upright": "Marks a time of solitude for introspection and truth-seeking.",
+        "description_reversed": "Cautions against excessive withdrawal or sinking into loneliness.",
+        "love_upright": "A little alone time to reflect could mature your view of love. Deep contemplation might reveal its truest meaning.",
+        "love_reversed": "Too much isolation or passivity might push your partner away. Don’t get lost in your own world—consider their feelings too.",
+        "job_upright": "Focus quietly on sharpening your skills and expertise now. Solitary reflection can yield wise insights for your work.",
+        "job_reversed": "Staying too detached and avoiding help might stall projects. Shutting out collaboration could cost you growth.",
+        "money_upright": "Review your finances analytically with a long-term lens to improve your situation. Prioritize reason over impulse.",
+        "money_reversed": "Over-frugality or stinginess might make you miss out. Hidden costs or self-imposed isolation could worsen your finances.",
+        "advice_upright": "Embrace solitude to seek profound thought and wisdom. Life’s deepest insights bloom in stillness.",
+        "advice_reversed": "Too much seclusion saps vitality—welcome some connection. Locking your heart too tight might block your progress."
+    },
+    {
+        "number": 10,
+        "name_eng": "Wheel of Fortune",
+        "name_kor": "Wheel of Fortune",
+        "img": "https://i.imgur.com/reAGSB0.jpg",
+        "keywords_upright": [
+            "fate",
+            "change",
+            "cycles"
+        ],
+        "keywords_reversed": [
+            "misfortune",
+            "resistance",
+            "repetitive errors"
+        ],
+        "description_upright": "Heralds a turning point, luck, or the natural ebb and flow of life.",
+        "description_reversed": "Signals setbacks or struggles against inevitable shifts.",
+        "love_upright": "A new phase might dawn in your relationship, perhaps a destined meeting. Ride the wave with optimism to seize the moment.",
+        "love_reversed": "Recurring mistakes or friction could rock your connection—be wary. Don’t blame fate; seek ways to turn it around.",
+        "job_upright": "Work flows smoothly, with chances for promotion or success on the horizon. Time your moves right for bigger wins.",
+        "job_reversed": "Fearing change might cost you opportunities, or old errors could resurface. Fighting the tide only adds trouble—adapt instead.",
+        "money_upright": "Financial luck could climb, bringing windfalls or investment gains. Enjoy it, but don’t get cocky—manage it smartly.",
+        "money_reversed": "Money woes might repeat, or surprise costs could hit—brace yourself. Plan thoroughly instead of banking on luck.",
+        "advice_upright": "Welcome change fearlessly for great strides forward. Life’s current favors you, so keep your resolve strong.",
+        "advice_reversed": "If you sense a shift but delay it, deeper trouble looms. Don’t resist the flow—embrace it with courage."
+    },
+    {
+        "number": 11,
+        "name_eng": "Justice",
+        "name_kor": "Justice",
+        "img": "https://i.imgur.com/Dug3n6G.jpg",
+        "keywords_upright": [
+            "justice",
+            "balance",
+            "responsibility"
+        ],
+        "keywords_reversed": [
+            "injustice",
+            "bias",
+            "dishonesty"
+        ],
+        "description_upright": "Embodies equilibrium through fair judgment and accountability.",
+        "description_reversed": "Warns of unfairness, prejudice, or deceit.",
+        "love_upright": "Treating your partner fairly and rationally keeps love in balance. Fulfill your duties to each other without emotional sway for growth.",
+        "love_reversed": "Bias or mistrust could tip your relationship off-kilter—take care. Failing to see faults clearly will fuel conflict.",
+        "job_upright": "Fair assessments and sound decisions will build workplace trust. Honor the rules and own your role for rewarding outcomes.",
+        "job_reversed": "Unjust treatment or bias might stir trouble at work—handle it wisely. Ignoring truth only tangles things further.",
+        "money_upright": "Honest dealings and precise calculations will bring financial gains. Stick to principles without greed for lasting stability.",
+        "money_reversed": "Crooked tactics or shortcuts could land you in money trouble. Chasing quick wins might cost you more—stay cautious.",
+        "advice_upright": "With a just mindset and balanced reasoning, align your circumstances. Fairness to yourself and others brings true justice.",
+        "advice_reversed": "Prejudice or bias clouds right conclusions—let go of emotions. Regain a fair lens to move forward."
+    },
+    {
+        "number": 12,
+        "name_eng": "The Hanged Man",
+        "name_kor": "The Hanged Man",
+        "img": "https://i.imgur.com/RHeduhm.jpg",
+        "keywords_upright": [
+            "sacrifice",
+            "perspective shift",
+            "patience"
+        ],
+        "keywords_reversed": [
+            "stagnation",
+            "obsession",
+            "stubbornness"
+        ],
+        "description_upright": "Calls for a pause or sacrifice to gain fresh insight.",
+        "description_reversed": "Reflects resistance to change or being stuck in limbo.",
+        "love_upright": "To truly understand your partner, pause and see things anew. This could teach you empathy and the beauty of sacrifice.",
+        "love_reversed": "Fear of change might keep old tensions alive—don’t cling. Obsession or rigidity from either side stalls progress.",
+        "job_upright": "Short-term delays or sacrifices might offer new perspectives and skills. With patience, rethinking things could uncover better paths.",
+        "job_reversed": "Stagnation won’t break unless you bend—holding firm could halt projects. Flexibility is needed to see challenges differently.",
+        "money_upright": "Focus on the long game over instant profits for smart financial choices. Sometimes, accepting minor losses now is the wiser play.",
+        "money_reversed": "Clinging or rushing might amplify losses—revise your approach. Seriously seek ways to cut damage.",
+        "advice_upright": "Don’t leap to conclusions; observe and learn objectively. Sacrifice and understanding will lead to greater heights.",
+        "advice_reversed": "Stubbornness or fear binds your growth—release it. Accept when to stop and try a new angle."
+    },
+    {
+        "number": 13,
+        "name_eng": "Death",
+        "name_kor": "Death",
+        "img": "https://i.imgur.com/dvUvWCS.jpg",
+        "keywords_upright": [
+            "transformation",
+            "ending",
+            "rebirth"
+        ],
+        "keywords_reversed": [
+            "resistance",
+            "stagnation",
+            "vicious cycle"
+        ],
+        "description_upright": "Marks a profound shift, closing one chapter to open another.",
+        "description_reversed": "Fears change or fails to wrap up loose ends.",
+        "love_upright": "A breakup or closure might sting, but a fresh start awaits—don’t fear it. Letting go opens the door to renewal.",
+        "love_reversed": "Clinging to a strained bond despite resistance deepens the hurt. If it’s time to end, muster the courage to release.",
+        "job_upright": "Old ways or projects will fade, giving way to fresh chances in a new setting. Embrace the shift to unlock progress.",
+        "job_reversed": "Dreading change and delaying action prolongs stagnation. Don’t dodge the choice you’ll eventually face.",
+        "money_upright": "Financial struggles might ease as new income paths emerge. Boldly ditch outdated ventures for opportunity.",
+        "money_reversed": "Knowing the losses but holding on tight could worsen them. Shift to forward-thinking choices over past flops.",
+        "advice_upright": "Every ending births a beginning—boldly shed old habits. Drop unneeded baggage to unlock new doors.",
+        "advice_reversed": "Fearing closure might trap you in change’s flow forever. Overcome lingering ties and step boldly ahead."
+    },
+    {
+        "number": 14,
+        "name_eng": "Temperance",
+        "name_kor": "Temperance",
+        "img": "https://i.imgur.com/ioHxTNR.jpg",
+        "keywords_upright": [
+            "harmony",
+            "balance",
+            "moderation"
+        ],
+        "keywords_reversed": [
+            "excess",
+            "extremism",
+            "discord"
+        ],
+        "description_upright": "Reflects finding harmony and balance between opposing forces.",
+        "description_reversed": "Cautions against chaos from extremes or overindulgence.",
+        "love_upright": "Accepting and blending differences will ripen your relationship. Balance heart and mind for harmonious communication.",
+        "love_reversed": "Extreme swings or moods could escalate tensions—rein yourself in. Losing moderation fractures peace.",
+        "job_upright": "Mediating teamwork or mixing resources can lead to triumph. A balanced approach boosts group synergy.",
+        "job_reversed": "Clashing extremes or poor coordination might derail projects. Ignoring both sides widens rifts.",
+        "money_upright": "Aligning income and expenses ensures stable finances. Seek middle ground in investments for solid returns.",
+        "money_reversed": "All-or-nothing risks or overspending could rock your finances. Extremes disrupt cash flow fast.",
+        "advice_upright": "Seek the middle path and strive for harmony—it’s key. Steer clear of extremes and adapt as needed.",
+        "advice_reversed": "Imbalance unchecked could spell disaster—fix it soon. Harmonize emotions, reason, work, and rest."
+    },
+    {
+        "number": 15,
+        "name_eng": "The Devil",
+        "name_kor": "The Devil",
+        "img": "https://i.imgur.com/AlolLuR.jpg",
+        "keywords_upright": [
+            "obsession",
+            "temptation",
+            "materialism"
+        ],
+        "keywords_reversed": [
+            "freedom",
+            "lessened obsession",
+            "regaining control"
+        ],
+        "description_upright": "Symbolizes bondage to material desires or addictions.",
+        "description_reversed": "Marks liberation from harmful fixations or reclaimed self-mastery.",
+        "love_upright": "Intense attraction or temptation might ignite your bond briefly. But chasing only obsession could trap you both—tread carefully.",
+        "love_reversed": "A chance to break free from toxic clinginess lets you rebuild healthily. Honor each other’s freedom and self-worth.",
+        "job_upright": "Fixating on greed or gain might fracture teamwork and pile on stress. Don’t chain yourself to temptation’s lure.",
+        "job_reversed": "You can escape workaholism or toxic settings now. With freedom gained, pursue better prospects.",
+        "money_upright": "Short-term gains might tempt big risks—be prudent. Material cravings could cost you more down the line.",
+        "money_reversed": "Stepping back from money obsession restores balance. Control your finances while seeking inner richness too.",
+        "advice_upright": "Master your desires and hold onto soulful values. Sweet lures always carry a price—keep that in mind.",
+        "advice_reversed": "Now’s the moment to shed old vices or toxic ties. Cut the chains bravely to find liberation."
+    },
+    {
+        "number": 16,
+        "name_eng": "The Tower",
+        "name_kor": "The Tower",
+        "img": "https://i.imgur.com/1BiNfKx.jpg",
+        "keywords_upright": [
+            "destruction",
+            "sudden change",
+            "collapse"
+        ],
+        "keywords_reversed": [
+            "resistance",
+            "prolonged instability",
+            "avoidance"
+        ],
+        "description_upright": "Portends a collapse of old structures from unexpected jolts.",
+        "description_reversed": "Warns that dodging change heightens risks.",
+        "love_upright": "A shocking twist could upend your relationship or situation entirely. Yet, this ruin might expose buried issues for real healing.",
+        "love_reversed": "Fearing change and ignoring flaws could wound deeper. Face the storm honestly to mend your bond.",
+        "job_upright": "Sudden shifts or restructures might confuse, but they’re chances to fix stale problems. Crisis births innovation.",
+        "job_reversed": "Overlooking red flags while pushing on risks big failure. Acting late amplifies the blow.",
+        "money_upright": "Surprise expenses or losses might hit, but they’re a shot to rethink bad habits. Stay cool amid chaos to rebuild finances.",
+        "money_reversed": "Clinging to stability while flaws fester invites worse pain. Without prep, sudden hits could shake you hard.",
+        "advice_upright": "Destructive shifts can seed new beginnings—don’t dread collapse. Breaking old molds sets you free.",
+        "advice_reversed": "If change is coming, dodging it only swells the issue. Cut ties decisively when it’s time to lessen the sting."
+    },
+    {
+        "number": 17,
+        "name_eng": "The Star",
+        "name_kor": "The Star",
+        "img": "https://i.imgur.com/BBN79fd.jpg",
+        "keywords_upright": [
+            "hope",
+            "inspiration",
+            "healing"
+        ],
+        "keywords_reversed": [
+            "disappointment",
+            "self-doubt",
+            "hopelessness"
+        ],
+        "description_upright": "Shines with hope, inspiration, and soothing energy for a bright future.",
+        "description_reversed": "Signals lost hope or disbelief in your own potential.",
+        "love_upright": "Hope and healing seep into your heart, sparking optimism for what’s ahead. Hold onto faith—you might witness tiny miracles.",
+        "love_reversed": "Doubt or cynicism could chill your connection—don’t undervalue yourself. Abandoning hope dims love’s promise.",
+        "job_upright": "Creativity and inspiration surge, breathing life into your tasks. With clear vision and effort, meaningful wins await.",
+        "job_reversed": "Fuzzy goals or waning drive might sap your work passion. Face reality and build from small successes.",
+        "money_upright": "Bright spots could ease financial strain, opening doors past hardship. Plan positively, and wealth will grow.",
+        "money_reversed": "Blind optimism or vague hopes might lead to losses. Don’t chase dreams without checking facts.",
+        "advice_upright": "Cling to hope and step forward—heal your wounds and trust yourself. Follow the star’s light, and paths will unfold.",
+        "advice_reversed": "Don’t let setbacks block your potential. Trapped in doubt, you’ll miss the glow—take heart and move on."
+    },
+    {
+        "number": 18,
+        "name_eng": "The Moon",
+        "name_kor": "The Moon",
+        "img": "https://i.imgur.com/4b3So2w.jpg",
+        "keywords_upright": [
+            "unconscious",
+            "illusion",
+            "intuition"
+        ],
+        "keywords_reversed": [
+            "confusion",
+            "delusion",
+            "anxiety"
+        ],
+        "description_upright": "Evokes hidden feelings, intuitive flashes, or a realm of uncertainty.",
+        "description_reversed": "Hints at confusion or rising fears from misguided visions.",
+        "love_upright": "Buried emotions might surface, sensitizing your bond, but deepening it too. Lean on intuition to read the emotional tides right.",
+        "love_reversed": "False suspicions or illusions might breed unease—don’t drown in fantasy. Clear up confusion with honest talk.",
+        "job_upright": "Creative sparks flicker, though shaping them might take time. Trust your potential and refine patiently for success.",
+        "job_reversed": "Chaos muddies your goals, and missteps could snarl work. Don’t let fear rule—sort fact from fiction first.",
+        "money_upright": "Cash flow feels murky, but intuition can steady spending. In uncharted waters, caution beats haste.",
+        "money_reversed": "Missteps or misinformation might cost you—double-check everything. Don’t let baseless worry sway you; stay calm.",
+        "advice_upright": "Honor your intuition and feelings—heed your inner call. Navigating the dark brings fresh revelations.",
+        "advice_reversed": "Don’t cage yourself in vague fears or false visions. Grounded review and truth will ease your path open."
+    },
+    {
+        "number": 19,
+        "name_eng": "The Sun",
+        "name_kor": "The Sun",
+        "img": "https://i.imgur.com/4URBZfd.jpg",
+        "keywords_upright": [
+            "happiness",
+            "success",
+            "clarity"
+        ],
+        "keywords_reversed": [
+            "overconfidence",
+            "energy drain",
+            "gloom"
+        ],
+        "description_upright": "Radiates vibrant energy, positive triumphs, and clear success.",
+        "description_reversed": "Cautions against complacency or burnout from excess confidence.",
+        "love_upright": "Bright warmth wraps your love, filling it with joy and ease. Open, upbeat exchanges will strengthen you both.",
+        "love_reversed": "Too much optimism or showiness might upset your harmony—mind your partner’s feelings. True joy needs care to last.",
+        "job_upright": "You’ll shine with stellar results, basking in achievement and confidence. Your lively spirit lifts those around you.",
+        "job_reversed": "Cockiness or overreach could trip you up, missing chances. Humility and focus keep success alive.",
+        "money_upright": "A sunny financial streak boosts income or luck—enjoy it. Avoid reckless spending and plan ahead when you’re flush.",
+        "money_reversed": "Overblown spending or rosy guesses might lead to surprise losses. Keep your budget in line with reality.",
+        "advice_upright": "Fill yourself with positivity and spread warmth freely. A pure, bright heart fuels greater joy and victory.",
+        "advice_reversed": "Overzealous cheer could spoil things—don’t skip reality checks. Passion’s great, but prep calmly for what’s next."
+    },
+    {
+        "number": 20,
+        "name_eng": "Judgement",
+        "name_kor": "Judgement",
+        "img": "https://i.imgur.com/9MmxL1A.jpg",
+        "keywords_upright": [
+            "rebirth",
+            "evaluation",
+            "awakening"
+        ],
+        "keywords_reversed": [
+            "self-blame",
+            "misjudgment",
+            "lingering regret"
+        ],
+        "description_upright": "Heralds an awakening to resolve the past and step into a new phase.",
+        "description_reversed": "Points to self-criticism or flawed decisions from past burdens.",
+        "love_upright": "Reflecting on past missteps opens new doors in love. This reckoning deepens your bond with meaningful shifts.",
+        "love_reversed": "Guilt or lingering misunderstandings might stall your connection—try reconciling. Past ties bind you from moving on.",
+        "job_upright": "Your skills and efforts will be fairly judged, offering a leap forward. It’s decision time—trust yourself and act boldly.",
+        "job_reversed": "Without reflection or fixes, errors might pile up. Own your mistakes and learn for real advancement.",
+        "money_upright": "Old debts or financial woes can close out now. Meet your obligations and start fresh for positive change.",
+        "money_reversed": "Clutching bad investments or loose ends could extend losses—decide now. Clear the slate to lighten your load.",
+        "advice_upright": "Follow your conscience for the best path. Acknowledge errors, grow from them, and rise anew with courage.",
+        "advice_reversed": "Excuses or denial skew sound judgment. Face hard truths, even if it stings, to carve a new way."
+    },
+    {
+        "number": 21,
+        "name_eng": "The World",
+        "name_kor": "The World",
+        "img": "https://i.imgur.com/V5qZUJP.jpg",
+        "keywords_upright": [
+            "completion",
+            "achievement",
+            "wholeness"
+        ],
+        "keywords_reversed": [
+            "incompletion",
+            "frustration",
+            "delay"
+        ],
+        "description_upright": "Celebrates a journey’s end, full success, and unified energy.",
+        "description_reversed": "Hints at frustration or delays in finishing goals.",
+        "love_upright": "You’ll reach a peak of fulfillment and unity, basking in accomplishment. Step onto a grander stage and celebrate yourself.",
+        "love_reversed": "Unfinished matters or clinging regrets might keep your bond from closing. Tie up loose ends to ascend higher.",
+        "job_upright": "Rejoice as goals hit their mark and projects wrap up triumphantly. Leverage this experience for fresh challenges.",
+        "job_reversed": "Unclosed tasks or stalled plans might leave you unsatisfied. See it through to claim your reward.",
+        "money_upright": "Financial aims could materialize, with hefty profits from investments. Savor your gains and aim bigger next.",
+        "money_reversed": "Returns might fall-short or finances lag—be patient and thorough. Finishing strong yields results.",
+        "advice_upright": "Relish completion’s joy while gearing up for a broader world. Trust yourself and use this as a launchpad for new quests.",
+        "advice_reversed": "Don’t let unfinished business linger—make your call. Leaving things half-done blocks your next step."
+    },
+    {
+        "number": 1,
+        "name_eng": "Ace of Wands",
+        "name_kor": "Ace of Wands",
+        "img": "https://i.imgur.com/3WSruc8.jpg",
+        "keywords_upright": [
+            "passion",
+            "creativity",
+            "new opportunity"
+        ],
+        "keywords_reversed": [
+            "frustration",
+            "lethargy",
+            "instability"
+        ],
+        "description_upright": "Ignites a fresh start brimming with passion and creative openings.",
+        "description_reversed": "Suggests stalled beginnings from lack of drive or uncertainty.",
+        "love_upright": "A fiery, passionate love might spark anew. Creative energy between you will invigorate your bond.",
+        "love_reversed": "Hesitation at the outset could dim love’s flame—don’t lose your boldness. Waning enthusiasm might scatter chances.",
+        "job_upright": "Unleash creative ideas in new ventures or work now. Your passion will breathe vitality into tasks.",
+        "job_reversed": "Lack of motivation or doubt clouds focus at work. Blocked creativity hampers solid results.",
+        "money_upright": "Sudden financial openings or talent-based earnings could emerge. Fearless adventure promises good returns.",
+        "money_reversed": "Financial luck wobbles, and starts might falter—be cautious. Costs could rise or gains fall short.",
+        "advice_upright": "It’s prime time to kick off something new—ignite your passion boldly. Even if it feels raw, trust and dive in for rich rewards.",
+        "advice_reversed": "If doubt looms large, pause and reassess your true desires. Rushing unprepared risks failure—take care."
+    },
+    {
+        "number": 2,
+        "name_eng": "Two of Wands",
+        "name_kor": "Two of Wands",
+        "img": "https://i.imgur.com/0rRCr7g.jpg",
+        "keywords_upright": [
+            "planning",
+            "decision",
+            "vision"
+        ],
+        "keywords_reversed": [
+            "hesitation",
+            "uncertainty",
+            "passivity"
+        ],
+        "description_upright": "Foretells planning ahead and prepping for the next leap.",
+        "description_reversed": "Hints at trouble deciding or losing your way.",
+        "love_upright": "Plan a future with a partner who shares your dreams. Aligning your visions will fortify your bond.",
+        "love_reversed": "Uncertainty or indecision might freeze your relationship. Delay tough talks, and it could unravel.",
+        "job_upright": "Perfect moment to flesh out detailed plans for your goals. A proactive, forward gaze builds a firm career base.",
+        "job_reversed": "Career choices feel shaky, risking lost momentum. When decisions loom, don’t retreat—step up.",
+        "money_upright": "Craft financial strategies or spot new investments. Balance caution with daring for fruitful gains.",
+        "money_reversed": "Financial plans might teeter, or unsure picks could tempt—watch out. Acting blind leaves regrets.",
+        "advice_upright": "Don’t be shackled by hurdles; sketch the big picture and act. Clarify your true path and charge ahead unwavering.",
+        "advice_reversed": "Pushing without confidence might spark trouble. Define your wants clearly before leaping."
+    },
+    {
+        "number": 3,
+        "name_eng": "Three of Wands",
+        "name_kor": "Three of Wands",
+        "img": "https://i.imgur.com/kSlMlVZ.jpg",
+        "keywords_upright": [
+            "expansion",
+            "anticipation",
+            "foresight"
+        ],
+        "keywords_reversed": [
+            "delay",
+            "frustration",
+            "unpreparedness"
+        ],
+        "description_upright": "Envisions preparing and stretching toward goals with a hopeful horizon.",
+        "description_reversed": "Marks delays or dampened spirits.",
+        "love_upright": "Look ahead with your partner for positive shifts. Bold steps will propel your relationship forward.",
+        "love_reversed": "Plans might stray, or delays could frustrate—adjust expectations. Calm talks beat impatience now.",
+        "job_upright": "Doors open to new markets or projects. With groundwork laid, you’ll glide ahead smoothly.",
+        "job_reversed": "Expected progress might stall, dimming your drive. Face reality squarely and regroup before advancing.",
+        "money_upright": "Expansion and investments look promising financially. A far-seeing approach favors diverse moves.",
+        "money_reversed": "Cash flow lags or sudden losses might disappoint. Persist and explore options over giving up.",
+        "advice_upright": "If you’ve prepped, it’s time to leap boldly. Patience and far-reaching vision will bear fruit.",
+        "advice_reversed": "Slow gains call for checking gaps, not haste. Wait wisely and tweak timing for better outcomes."
+    },
+    {
+        "number": 4,
+        "name_eng": "Four of Wands",
+        "name_kor": "Four of Wands",
+        "img": "https://i.imgur.com/ggmm47C.jpg",
+        "keywords_upright": [
+            "celebration",
+            "stability",
+            "milestone"
+        ],
+        "keywords_reversed": [
+            "instability",
+            "conflict",
+            "halted joy"
+        ],
+        "description_upright": "Rejoices in achievements or festivities atop a firm foundation.",
+        "description_reversed": "Warns of canceled joys or strife stealing happiness.",
+        "love_upright": "Savor your bond on steady ground. Share small celebrations to deepen your love’s glow.",
+        "love_reversed": "Unexpected wobbles might shake happy moments—talk through tensions. Unresolved clashes could derail joy.",
+        "job_upright": "Projects settle into stability, ripe for collective celebration. Smooth teamwork crafts a cheerful workspace.",
+        "job_reversed": "Tiffs might mar achievement’s peak, or festivities could fizzle. Don’t neglect coworker communication.",
+        "money_upright": "Finances steady, letting you enjoy modest wins. Celebrate reasonably and share the cheer.",
+        "money_reversed": "Sudden costs or disputes might spoil stability—keep watch. Avoid rash spending amid the storm.",
+        "advice_upright": "Your built foundation stands strong—pause to revel in it. Valuing little joys fuels your next phase.",
+        "advice_reversed": "Surface calm might mask brewing strife—don’t bury issues. Face them head-on for peace."
+    },
+    {
+        "number": 5,
+        "name_eng": "Five of Wands",
+        "name_kor": "Five of Wands",
+        "img": "https://i.imgur.com/8HjO1hK.jpg",
+        "keywords_upright": [
+            "competition",
+            "conflict",
+            "challenge"
+        ],
+        "keywords_reversed": [
+            "dispute resolution",
+            "lack of teamwork",
+            "war of attrition"
+        ],
+        "description_upright": "Fosters growth through clashing views or rivalry.",
+        "description_reversed": "Points to prolonged strife or broken collaboration.",
+        "love_upright": "Petty squabbles or rivalry might deepen your understanding. Constructive chats will mature your tie.",
+        "love_reversed": "Lingering fights could wear you thin, or poor teamwork might drain your bond. Dodging issues worsens things—talk soon.",
+        "job_upright": "Clashing opinions can birth bold ideas and hone your skills. Channel tension into progress for a growth boost.",
+        "job_reversed": "Unsettled disputes drag on, sapping energy. Rebuild teamwork—it’s urgent now.",
+        "money_upright": "Money spats might arise, but merging views could yield bigger gains. Negotiate openly for a win-win.",
+        "money_reversed": "Drawn-out battles might destabilize finances, or petty wars could cost you. Stay cool to dodge escalation.",
+        "advice_upright": "See conflict as a growth spark, not a foe. Step back for perspective and solutions will surface.",
+        "advice_reversed": "If you’re worn out, halt before sinking deeper—recalibrate. Cool-headed talks or a mediator might help."
+    },
+    {
+        "number": 6,
+        "name_eng": "Six of Wands",
+        "name_kor": "Six of Wands",
+        "img": "https://i.imgur.com/r6A7xNo.jpg",
+        "keywords_upright": [
+            "victory",
+            "recognition",
+            "success"
+        ],
+        "keywords_reversed": [
+            "failure",
+            "lack of confidence",
+            "overpride"
+        ],
+        "description_upright": "Hails rewards and praise for your hard work.",
+        "description_reversed": "Warns of missed wins or arrogance tarnishing your shine.",
+        "love_upright": "Joint efforts bloom, earning mutual admiration. Approach confidently—your partner will respond warmly.",
+        "love_reversed": "Self-doubt or swagger might creak your connection. Don’t burden each other with lofty demands.",
+        "job_upright": "Diligent work wins nods from peers and bosses alike—goals hit. Savor the win, but stay humble for more.",
+        "job_reversed": "Pride could stumble you, or underestimating yourself might miss shots. Balance and steadiness matter.",
+        "money_upright": "Financial luck rises, drawing gains and envy alike. Don’t splurge rashly—prep for what’s next.",
+        "money_reversed": "Income dips or flops could shake confidence—keep steady. Overconfidence risks bigger losses.",
+        "advice_upright": "Don’t rest on laurels—aim higher still. Humility and teamwork secure lasting triumph.",
+        "advice_reversed": "Beware getting drunk on small wins or losing faith too fast. Moderation keeps you grounded."
+    },
+    {
+        "number": 7,
+        "name_eng": "Seven of Wands",
+        "name_kor": "Seven of Wands",
+        "img": "https://i.imgur.com/eSl3fQi.jpg",
+        "keywords_upright": [
+            "defense",
+            "challenge",
+            "courage"
+        ],
+        "keywords_reversed": [
+            "failed defense",
+            "disadvantage",
+            "surrender"
+        ],
+        "description_upright": "Stands for bold resolve to defend your ground to the end.",
+        "description_reversed": "Struggles to hold the line or a urge to give up.",
+        "love_upright": "Despite outside pushback, your firm will to shield each other shines. Unite in tough times to protect your bond.",
+        "love_reversed": "Holding your relationship might feel futile, tempting surrender. Weak resolve opens you to external sway.",
+        "job_upright": "Stand tall amid tough competition or settings—confidence pays off. Brave calls will earn high marks.",
+        "job_reversed": "Lacking support or endurance could tire you out. Don’t overpush—find allies or rethink tactics.",
+        "money_upright": "Even in money Disputes, you can staunchly guard your stake. Don’t quit, and steady income holds.",
+        "money_reversed": "Failing to shield finances or fading stamina might hike losses. Cut rash moves and regroup calmly.",
+        "advice_upright": "Even when it’s rough, courage to hold your path is vital. Stand firm through wobbles, and light awaits.",
+        "advice_reversed": "If you’re beat, step back to recharge wisely. Will alone won’t cut it—avoid bigger flops with care."
+    },
+    {
+        "number": 8,
+        "name_eng": "Eight of Wands",
+        "name_kor": "Eight of Wands",
+        "img": "https://i.imgur.com/vcS63zP.jpg",
+        "keywords_upright": [
+            "speed",
+            "progress",
+            "communication"
+        ],
+        "keywords_reversed": [
+            "delay",
+            "confusion",
+            "overhaste"
+        ],
+        "description_upright": "Brings swift movement, forward strides, and clear exchanges.",
+        "description_reversed": "Slows progress or muddies the waters.",
+        "love_upright": "Words flow freely, and your bond could surge ahead. Keep the thrill alive, but check in on each other’s hearts.",
+        "love_reversed": "Talk barriers or rushing might strain things. Overpushing could misalign you—slow down a bit.",
+        "job_upright": "Work speeds up, with lively info swaps sparking synergy. Quick calls bring gains, so don’t waver.",
+        "job_reversed": "Delays or mix-ups might sap efficiency. Or, haste could breed errors—find balance.",
+        "money_upright": "Deals or investments might unfold fast, netting profits. Speed’s great, but double-check details.",
+        "money_reversed": "Payments lag, or slip-ups clog cash flow. Hasty bets could cost—be prudent.",
+        "advice_upright": "Spot an opening? Act fast without pause. Bold communication and swift choices call success.",
+        "advice_reversed": "If chaos reigns, stop and reorient. Hurry risks blunders—proceed with care."
+    },
+    {
+        "number": 9,
+        "name_eng": "Nine of Wands",
+        "name_kor": "Nine of Wands",
+        "img": "https://i.imgur.com/ZxYUoGl.jpg",
+        "keywords_upright": [
+            "resilience",
+            "patience",
+            "defense"
+        ],
+        "keywords_reversed": [
+            "exhaustion",
+            "giving up",
+            "injury"
+        ],
+        "description_upright": "Stands for unwavering resolve to guard your aims to the finish.",
+        "description_reversed": "Hints at weariness or a desire to abandon heavy loads.",
+        "love_upright": "Through trials, your steady patience to protect your bond stands out. Together, you’ll grow stronger.",
+        "love_reversed": "Emotionally drained, you might feel unable to push on. Without mutual care, cracks widen—rest up.",
+        "job_upright": "In a harsh work scene, your will to endure shines. The end’s near—summon your final focus.",
+        "job_reversed": "Overwork and stress peak, dimming your work drive. At your limit? Seek help or reset.",
+        "money_upright": "Financial weight presses, but holding firm nears stability. A bit more patience opens recovery’s door.",
+        "money_reversed": "The burden’s too much—you might want to quit finances. Trim excess spending and get expert input.",
+        "advice_upright": "Clear the last hurdle, and triumph’s close—dig deep. This stretch builds tougher grit.",
+        "advice_reversed": "Worn out? Rest and recharge come first. Don’t shoulder it all—share or shed wisely."
+    },
+    {
+        "number": 10,
+        "name_eng": "Ten of Wands",
+        "name_kor": "Ten of Wands",
+        "img": "https://i.imgur.com/ZARE91O.jpg",
+        "keywords_upright": [
+            "heavy burden",
+            "responsibility",
+            "toil"
+        ],
+        "keywords_reversed": [
+            "unburdening",
+            "shirking duty",
+            "burnout"
+        ],
+        "description_upright": "Carries the weight of mounting duties and effort.",
+        "description_reversed": "Craves shedding loads or dodging obligations.",
+        "love_upright": "Heavy duties to each other might weigh your bond, but sharing the load matures it. Lean on trust to lighten it.",
+        "love_reversed": "Obligations might make love feel like a chore. If one bears all, split the weight—it’s needed.",
+        "job_upright": "Work piles high, but rewards loom large. Stick it out for rich experience and skills.",
+        "job_reversed": "Too much load risks burnout—delegate now. Don’t overstretch; seek support or adjust pace.",
+        "money_upright": "Financial duties loom, but effort matches stability gains. Steady handling, even with debt, works step-by-step.",
+        "money_reversed": "The load might overwhelm your finances—replan to ease it. Cut unneeded costs to breathe.",
+        "advice_upright": "Though duties press, manage them well for big growth. Rest between to keep your strength up.",
+        "advice_reversed": "Don’t haul excess alone—asking for help takes guts too. Overburdening could ruin all—watch it."
+    },
+    {
+        "number": 11,
+        "name_eng": "Page of Wands",
+        "name_kor": "Page of Wands",
+        "img": "https://i.imgur.com/WKTumZ3.jpg",
+        "keywords_upright": [
+            "enthusiasm",
+            "ideas",
+            "exploration"
+        ],
+        "keywords_reversed": [
+            "immaturity",
+            "impulsiveness",
+            "fickleness"
+        ],
+        "description_upright": "Bursts with youthful zeal, fresh ideas, and a questing spirit.",
+        "description_reversed": "Flags impulsiveness or lack of focus scattering direction.",
+        "love_upright": "Fiery enthusiasm toward your partner can bloom tender feelings. Lively gestures make love vibrant.",
+        "love_reversed": "A flash of passion might fizzle fast. Whims without plan could wound—steady yourself.",
+        "job_upright": "Fresh notions and vigor make you a workplace spark. Boldly show your youthful drive for praise.",
+        "job_reversed": "Plan-less zeal might leave tasks undone or astray. Passion’s great, but structure lifts results.",
+        "money_upright": "New income streams or creative cash ideas pop up. Small starts can grow with fervor.",
+        "money_reversed": "Snap spending or hyped bets could hit losses. Curb fickle habits to keep finances firm.",
+        "advice_upright": "Chase childlike curiosity into new realms fearlessly. Passion-led ventures build future wealth.",
+        "advice_reversed": "Overflowing zest sans order might flounder. Start small and steady to find your track."
+    },
+    {
+        "number": 12,
+        "name_eng": "Knight of Wands",
+        "name_kor": "Knight of Wands",
+        "img": "https://i.imgur.com/aXUdLPU.jpg",
+        "keywords_upright": [
+            "ambition",
+            "adventure",
+            "directness"
+        ],
+        "keywords_reversed": [
+            "recklessness",
+            "instability",
+            "abrupt shift"
+        ],
+        "description_upright": "Charges toward goals with daring energy and straight aim.",
+        "description_reversed": "Risks fallout from rash acts or haste.",
+        "love_upright": "Bold wooing can heat your bond fast. Bare your passion—they’ll open wide in return.",
+        "love_reversed": "Pushing too hard might overwhelm them. Ignoring their pace deepens rifts.",
+        "job_upright": "Fearless challenge drives work forward. Add finesse to your thrust for gains.",
+        "job_reversed": "Rash choices or overreach might muddle tasks. Blind charges bring flops—plan it out.",
+        "money_upright": "Daring in new ventures or bets can pay off. Swift calls yield fruit.",
+        "money_reversed": "Leaping sans sight could bruise your wallet. Weigh real risks or lose big.",
+        "advice_upright": "No delays—act on bright ideas now. Balance passion with poise—it’s key.",
+        "advice_reversed": "Too much hurry spoils it—pause and scan. Ease haste and build order."
+    },
+    {
+        "number": 13,
+        "name_eng": "Queen of Wands",
+        "name_kor": "Queen of Wands",
+        "img": "https://i.imgur.com/DDC43YG.jpg",
+        "keywords_upright": [
+            "confidence",
+            "charisma",
+            "independence"
+        ],
+        "keywords_reversed": [
+            "jealousy",
+            "low esteem",
+            "control"
+        ],
+        "description_upright": "Glows with passion and self-direction, inspiring others.",
+        "description_reversed": "Fears shaky confidence or control bids straining ties.",
+        "love_upright": "Charismatic confidence can steer your love aflame. Sincere moves blend passions warmly.",
+        "love_reversed": "Jealousy or bruised pride might spark fights. Controlling or doubting risks wobbles.",
+        "job_upright": "Strong leadership and creativity captivate, lifting results. Bold poise rallies the team.",
+        "job_reversed": "Wavering faith or meddling might grate on peers. Humility and teamwork need work.",
+        "money_upright": "Gutsy picks and grit boost financial wins. Duty keeps luck rising.",
+        "money_reversed": "Pride might push rash bets, or envy skews cash calls. Stay level to dodge loss.",
+        "advice_upright": "Unfurl your passion and talents fully, yet bend with harmony. Bright vibes draw bounty.",
+        "advice_reversed": "Shaky confidence or touchiness needs settling first. Don’t oversteer or mistrust others."
+    },
+    {
+        "number": 14,
+        "name_eng": "King of Wands",
+        "name_kor": "King of Wands",
+        "img": "https://i.imgur.com/AmQUgOR.jpg",
+        "keywords_upright": [
+            "leadership",
+            "creativity",
+            "vision"
+        ],
+        "keywords_reversed": [
+            "dogmatism",
+            "arrogance",
+            "risk aversion"
+        ],
+        "description_upright": "Commands with bold leadership and creative foresight.",
+        "description_reversed": "Risks trouble from self-focus or overconfidence.",
+        "love_upright": "With passion and generosity, you can cradle your partner in mature love. Be their strength, not their dictator.",
+        "love_reversed": "Excess pride might burden your bond. Deciding solo without respect stirs strife.",
+        "job_upright": "Grand visions take shape, with leadership glowing. Blend creativity and resolve for a bigger stage.",
+        "job_reversed": "Stubborn dogma might ruffle the team. Narrow sights could trip you up—stay broad.",
+        "money_upright": "Big-picture risks can swell your coffers. Boldness paired with savvy nets hefty gains.",
+        "money_reversed": "Overblown faith might fuel rash bets or sloppy calls—lose big. Heed outside wisdom and pace yourself.",
+        "advice_upright": "Aim high, gather input, and lead with grace. Open-handed guidance widens your success horizon.",
+        "advice_reversed": "Dogma loses trust and shots—drop it. Keep humility and fairness to guard your wins."
+    },
+    {
+        "number": 1,
+        "name_eng": "Ace of Cups",
+        "name_kor": "Ace of Cups",
+        "img": "https://i.imgur.com/dJ8gZM3.jpg",
+        "keywords_upright": [
+            "love",
+            "emotional dawn",
+            "inspiration"
+        ],
+        "keywords_reversed": [
+            "emotional block",
+            "dissatisfaction",
+            "mood chaos"
+        ],
+        "description_upright": "Heralds new love or emotional fullness.",
+        "description_reversed": "Hints at stifled feelings or emotional jams.",
+        "love_upright": "A blessed time when love swells or deepens beyond dreams. Unexpected intimacy flows between you.",
+        "love_reversed": "Fear or pause might shut your heart, thwarting true talk. Unspoken feelings stack misunderstandings.",
+        "job_upright": "Fresh creative bursts or inspiration could smooth teamwork. Unity drives results now.",
+        "job_reversed": "Emotional drain dulls work plunge, or passion fades. Recharge to spark efficiency.",
+        "money_upright": "Surprise cash perks or small luck might roll in. Grateful hearts for little wins draw more.",
+        "money_reversed": "Money gripes might spur rash buys or heart-filling splurges—watch it. Cash won’t plug soul gaps.",
+        "advice_upright": "Love and care seed all ventures richly. Open up and share joy to swell blessings.",
+        "advice_reversed": "Hiding emotions tightens your knots. Unlock your heart and knock on connection’s door."
+    },
+    {
+        "number": 2,
+        "name_eng": "Two of Cups",
+        "name_kor": "Two of Cups",
+        "img": "https://i.imgur.com/U8LlbVU.jpg",
+        "keywords_upright": [
+            "partnership",
+            "harmony",
+            "union"
+        ],
+        "keywords_reversed": [
+            "discord",
+            "parting",
+            "miscommunication"
+        ],
+        "description_upright": "Mirrors close ties, teamwork, or two souls in sync.",
+        "description_reversed": "Marks rifts from clashing views or silence.",
+        "love_upright": "True hearts meet, weaving a deep bond. Honest emotional swaps solidify your link.",
+        "love_reversed": "Mix-ups or spats might sway your tie—bridge it with talk. Hiding risks widening gaps.",
+        "job_upright": "You’ll forge stellar alliances with peers or partners. Respect fuels fine results.",
+        "job_reversed": "Partner talk stumbles, brewing trouble. Grasp each side and yield a little.",
+        "money_upright": "Shared investments or cash ties can thrive, splitting gains. Trust anchors profit shares.",
+        "money_reversed": "Cash clashes with allies or kin might flare—take care. Talk plenty before big moves.",
+        "advice_upright": "Read your partner’s heart for richer synergy. Nurture ties with love and regard.",
+        "advice_reversed": "Without real talk, ties could fray—mind it. Gentle honesty mends best."
+    },
+    {
+        "number": 3,
+        "name_eng": "Three of Cups",
+        "name_kor": "Three of Cups",
+        "img": "https://i.imgur.com/msnMy5j.jpg",
+        "keywords_upright": [
+            "celebration",
+            "friendship",
+            "joy"
+        ],
+        "keywords_reversed": [
+            "overpartying",
+            "love triangle",
+            "stalled progress"
+        ],
+        "description_upright": "Cheers to happy gatherings or shared victories with friends.",
+        "description_reversed": "Cautions against excess socializing or tangled relationships.",
+        "love_upright": "Light meetups or cheerful vibes might turn friendship to love. Little joys naturally deepen your tie.",
+        "love_reversed": "Too much mingling or third wheels might snarl your bond. Focus inward to keep feelings sharp.",
+        "job_upright": "Toast success with peers or spark fun networking. Team spirit lifts performance high.",
+        "job_reversed": "Boozy nights or cliques might dent work. Team tangles could lag projects—stay sharp.",
+        "money_upright": "Small wins or windfalls bring cheer to share. Unity or gatherings might seed bigger gains.",
+        "money_reversed": "Party costs might rock finances—enjoy wisely. Unplanned splurges sting later.",
+        "advice_upright": "Shared glee doubles happiness. Mingle, swap good vibes, and bask in heart’s plenty.",
+        "advice_reversed": "Wild gatherings or overties sap strength. Even dear bonds need sane limits."
+    },
+    {
+        "number": 4,
+        "name_eng": "Four of Cups",
+        "name_kor": "Four of Cups",
+        "img": "https://i.imgur.com/2YzdKR2.jpg",
+        "keywords_upright": [
+            "boredom",
+            "apathy",
+            "reflection"
+        ],
+        "keywords_reversed": [
+            "new chances",
+            "awakening",
+            "breakout"
+        ],
+        "description_upright": "Feels emotional ennui or indifference to fresh offers.",
+        "description_reversed": "Shakes off lethargy to embrace new openings.",
+        "love_upright": "Interest in your partner might wane or feel stale. Use this lull to reflect and spark change.",
+        "love_reversed": "Shedding apathy rekindles your value in each other. Open up and talk to start anew.",
+        "job_upright": "Work might lack thrill, leaving you listless—but it’s a chance to ponder inside. Pause to seek better trails.",
+        "job_reversed": "Breaking boredom unveils new ideas or routes. Revisit ignored offers for a leap ahead.",
+        "money_upright": "Even if cash is fine, you might feel meh—don’t miss shots. Scrutinize offers that come.",
+        "money_reversed": "You’ll grab new money paths or tweak spending, craving shift. Acting beats watching now.",
+        "advice_upright": "If apathy hits, tune into your inner whisper to recharge. A wider lens starts showing paths.",
+        "advice_reversed": "Wake from long blahs and bravely try small shifts. Unlock your shut heart for chances."
+    },
+    {
+        "number": 5,
+        "name_eng": "Five of Cups",
+        "name_kor": "Five of Cups",
+        "img": "https://i.imgur.com/YMUS3SI.jpg",
+        "keywords_upright": [
+            "loss",
+            "regret",
+            "sorrow"
+        ],
+        "keywords_reversed": [
+            "hope regained",
+            "forgiveness",
+            "overcoming"
+        ],
+        "description_upright": "Mourns past wounds or losses with regret.",
+        "description_reversed": "Heals from pain, reclaiming hope to move on.",
+        "love_upright": "Parting or letdowns might cut deep. Focus on what’s left to coax hope back alive.",
+        "love_reversed": "Easing from old hurts, you can mend or talk it out. Forgiveness ripens richer feelings.",
+        "job_upright": "Mistakes or flops might sting with self-blame. Learn lessons and seek new shots to rise.",
+        "job_reversed": "Past stumbles fade as you regroup to push on. Turn errors into keys for fresh doors.",
+        "money_upright": "Sudden costs or losses might ache. Use what remains or other ways to inch back up.",
+        "money_reversed": "Bouncing from cash wounds, hope glimmers again. Let go of old pain for steady footing.",
+        "advice_upright": "Loss before you can toughen you up. Spy lingering shots and clutch hope tight.",
+        "advice_reversed": "Muster guts to shed grief’s grip. Unbound from yesterday, your road reopens."
+    },
+    {
+        "number": 6,
+        "name_eng": "Six of Cups",
+        "name_kor": "Six of Cups",
+        "img": "https://i.imgur.com/CpnPCkX.jpg",
+        "keywords_upright": [
+            "memories",
+            "innocence",
+            "past"
+        ],
+        "keywords_reversed": [
+            "past fixation",
+            "childishness",
+            "stunted growth"
+        ],
+        "description_upright": "Revives sweet past echoes, pure emotions, or childhood’s glow.",
+        "description_reversed": "Clings to yesteryears, slowing growth or staying immature.",
+        "love_upright": "Warm old memories might rekindle, or a known face reunite. Pure affection blooms anew.",
+        "love_reversed": "Stuck in the past, you might miss now’s gifts—or childish vibes stir trouble. Face today’s truth.",
+        "job_upright": "Past lessons spice current work with creative twists. Old ties or memories might lend a hand.",
+        "job_reversed": "Clinging to old ways or flops curbs growth. Don’t shy from new tries to stretch.",
+        "money_upright": "Past stakes or pals might yield surprise cash. Small kindness can sprout big returns.",
+        "money_reversed": "Old habits or stale tactics might cost you. Without shift, long growth stalls.",
+        "advice_upright": "Cherish warm echoes and innocence, yet live now too. Good times past power a bright future.",
+        "advice_reversed": "Lingering in yesterday skips today’s shots. Look ahead to stride toward new trails."
+    },
+    {
+        "number": 7,
+        "name_eng": "Seven of Cups",
+        "name_kor": "Seven of Cups",
+        "img": "https://i.imgur.com/wQPYftc.jpg",
+        "keywords_upright": [
+            "fantasy",
+            "choice",
+            "temptation"
+        ],
+        "keywords_reversed": [
+            "indecision",
+            "escapism",
+            "disarray"
+        ],
+        "description_upright": "Unfurls myriad paths and wants, urging real picks.",
+        "description_reversed": "Too many options paralyze, or fantasy traps you.",
+        "love_upright": "Big dreams of each other weave sweet visions. Ground them in reality for true love’s bloom.",
+        "love_reversed": "Dodging truth or lost in fancy stalls your call. Clarify intents and face facts to grow.",
+        "job_upright": "Projects or prospects beckon, but clear aims rule. Rich imagination opens doors—act smart.",
+        "job_reversed": "Blur clouds judgment, leaving you adrift. Chasing mirages misses work’s core—rank priorities.",
+        "money_upright": "Investment lures abound—vet them hard. Cool-headed checks promise solid gains.",
+        "money_reversed": "Waffling or wild greed tangles finances. Vague hopes spell loss—stay sharp.",
+        "advice_upright": "Rich fancy holds power, but keep roots real. Clear picks and follow-through reap big.",
+        "advice_reversed": "Too many roads freeze your first step—sort it. Set order and real plans to roll."
+    },
+    {
+        "number": 8,
+        "name_eng": "Eight of Cups",
+        "name_kor": "Eight of Cups",
+        "img": "https://i.imgur.com/2WILRAQ.jpg",
+        "keywords_upright": [
+            "departure",
+            "release",
+            "quest"
+        ],
+        "keywords_reversed": [
+            "clinging",
+            "avoidance",
+            "indecision"
+        ],
+        "description_upright": "Leaves ties behind to chase brighter stars.",
+        "description_reversed": "Can’t fully let go or wavers on resolve.",
+        "love_upright": "Unbound by past feelings, seek new joys or better bliss. Firm goodbyes might unlock fresh starts.",
+        "love_reversed": "Lingering ties stall your choice-making. Half-measures deepen cuts—watch out.",
+        "job_upright": "Ditch current gigs or tasks boldly for higher goals. Fearless moves crack open new shots.",
+        "job_reversed": "You know a new path calls, but waffling holds you. Delay risks missing your window—judge well.",
+        "money_upright": "Even with loss, bravely cut waste or flops. Long-term, this clears richer gains.",
+        "money_reversed": "Vague regrets might swell losses—act at the right beat. Sort or shed to pave new ways.",
+        "advice_upright": "Drop past grips and hunt fresh growth—it’s time. Endure leaving’s pang to advance.",
+        "advice_reversed": "Wavering keeps you stalled—be true to yourself. Clear sight breaks the standstill."
+    },
+    {
+        "number": 9,
+        "name_eng": "Nine of Cups",
+        "name_kor": "Nine of Cups",
+        "img": "https://i.imgur.com/2Tnq4yh.jpg",
+        "keywords_upright": [
+            "satisfaction",
+            "wish fulfillment",
+            "abundance"
+        ],
+        "keywords_reversed": [
+            "overpride",
+            "vanity",
+            "emptiness"
+        ],
+        "description_upright": "Glows with emotional fullness and dreams come true.",
+        "description_reversed": "Vanity or greed might eclipse true content.",
+        "love_upright": "Your bond brims with joy, granting each other fullness. Longed-for wishes bloom into happy times.",
+        "love_reversed": "Greed or high hopes might twist your real tie. Honor your partner humbly to keep love true.",
+        "job_upright": "Results shine, earning praise and filling your aims. Relish the fruit and recharge for more.",
+        "job_reversed": "Vanity or overreach might miss work’s soul. Flash risks your rep—stay grounded.",
+        "money_upright": "Cash dreams hit, or plenty flows your way—enjoy it. Save some or invest for tomorrow’s goals.",
+        "money_reversed": "Splurging or show might sap real gains—curb it. Moderation and plans guard your haul.",
+        "advice_upright": "Treasure your bounty and content, but don’t coast. Sharing joy amps your happiness.",
+        "advice_reversed": "Caught in quick thrills or greed, you’ll miss real wins. Drop pride—hoped-for fullness fades fast."
+    },
+    {
+        "number": 10,
+        "name_eng": "Ten of Cups",
+        "name_kor": "Ten of Cups",
+        "img": "https://i.imgur.com/HeCOuJZ.jpg",
+        "keywords_upright": [
+            "family",
+            "happiness",
+            "harmony"
+        ],
+        "keywords_reversed": [
+            "family strife",
+            "illusion",
+            "emotional rift"
+        ],
+        "description_upright": "Revels in deep emotional joy and unity with loved ones.",
+        "description_reversed": "Seeming peace hides inner discord or unrest.",
+        "love_upright": "Shared bliss peaks, basking in full harmony and joy. Cherished dreams fill your heart.",
+        "love_reversed": "Chasing surface peace might skip real talk—dig deeper. Ignoring cracks risks your bond.",
+        "job_upright": "Tending peers like kin lifts output in a warm vibe. Full satisfaction hikes work flow.",
+        "job_reversed": "Unseen rifts might lurk in the group—don’t fake harmony. Honest chats forge true balance.",
+        "money_upright": "Steady cash and plenty let you share joy with kin. Built efforts bear fruit for leisure.",
+        "money_reversed": "Stable-seeming funds might wane or costs soar—check close. Overhope needs detail reins.",
+        "advice_upright": "Pour effort into loved ones’ harmony and savor your joint joy. Open hearts truly connect for rich vibes.",
+        "advice_reversed": "Formal grins mask trouble—don’t ignore it. Sincere talks shore up substance for calm."
+    },
+    {
+        "number": 11,
+        "name_eng": "Page of Cups",
+        "name_kor": "Page of Cups",
+        "img": "https://i.imgur.com/MjIftQo.jpg",
+        "keywords_upright": [
+            "innocence",
+            "artistic spark",
+            "intuition"
+        ],
+        "keywords_reversed": [
+            "mood swings",
+            "unreal hopes",
+            "childishness"
+        ],
+        "description_upright": "Brings pure, fresh feelings or artistic glimmers.",
+        "description_reversed": "Warns of kid-like ups and downs or dreamy drift.",
+        "love_upright": "Gentle, pure emotions bud, hinting at new love. Clumsy but true moves leave a warm mark.",
+        "love_reversed": "Wild mood shifts might baffle your partner. Unreal takes on love could sting both.",
+        "job_upright": "Creative flair and art-sense freshen the team. Warm vibes bond you with peers.",
+        "job_reversed": "Ideas aplenty, but slim follow-through nets little. Don’t let feelings lead—plan tight.",
+        "money_upright": "Small surprise cash or perks might trickle in. Nurture slim chances for big leaps.",
+        "money_reversed": "Dreamy bets might flop investments or spends—cool it. Heart-led calls need cold logic.",
+        "advice_upright": "With open heart, sudden muses or ties might bloom. Act on little inklings fast.",
+        "advice_reversed": "Kid-like whims could mar work—rein it in. Ground yourself and balance act with feel."
+    },
+    {
+        "number": 12,
+        "name_eng": "Knight of Cups",
+        "name_kor": "Knight of Cups",
+        "img": "https://i.imgur.com/ZjLHC2Y.jpg",
+        "keywords_upright": [
+            "romance",
+            "empathy",
+            "imagination"
+        ],
+        "keywords_reversed": [
+            "escapism",
+            "fickleness",
+            "planlessness"
+        ],
+        "description_upright": "Wears a sensitive, artistic, romantic mantle.",
+        "description_reversed": "Leans too much on emotion, skimping practical steps.",
+        "love_upright": "Sweet words and soft ways melt your partner’s heart. Empathy’s air ripens romantic beats.",
+        "love_reversed": "Love flows, but duty or future talk lags—void looms. Show care with deeds, not just feels.",
+        "job_upright": "Artistic and emotional gifts dazzle, spotlighting arts or plans. Charm sways deals or pitches.",
+        "job_reversed": "All emotional pull, no meaty plans flops output. Dreams big—act concrete.",
+        "money_upright": "Sharp cash sense can win artsy bets or feel-driven sells. Read flows and flex for openings.",
+        "money_reversed": "High ideals skip real math, jumbling funds—watch it. Emotional picks need tight tactics.",
+        "advice_upright": "Seek beauty with open heart, but pair with real how-tos. True feelings move worlds and folks.",
+        "advice_reversed": "Feeling-heavy risks losing aim’s core—check it. Fancy sans feasibility shifts little."
+    },
+    {
+        "number": 13,
+        "name_eng": "Queen of Cups",
+        "name_kor": "Queen of Cups",
+        "img": "https://i.imgur.com/riTkPiY.jpg",
+        "keywords_upright": [
+            "empathy",
+            "sensitivity",
+            "nurture"
+        ],
+        "keywords_reversed": [
+            "emotional neediness",
+            "whining",
+            "inner unrest"
+        ],
+        "description_upright": "Glows as a warm soul, tending others with deep feel and care.",
+        "description_reversed": "Wobbles emotionally or leans too hard on others.",
+        "love_upright": "Finely grasping and holding your partner’s heart grows love. Kind coziness warms your tie further.",
+        "love_reversed": "Mood dips or over-leaning might weigh them down. Steady your own heart first, or strife swells.",
+        "job_upright": "Prime empathy brightens the crew, soothing peers. Loving lead draws willing teamwork.",
+        "job_reversed": "Big mood swings blur work focus, or bias tips balance—sometimes cool calls help.",
+        "money_upright": "Gut guides cash flows well, with room for generous turns. Give freely, but set clear lines.",
+        "money_reversed": "Feeling-spends or loose cash might teeter funds—rein it. Or, others’ plights pull unplanned aid.",
+        "advice_upright": "Grasping and tending your own and others’ feels bears rich fruit. Ear on heart, hug your circle soft.",
+        "advice_reversed": "Feeling-skew might lose reason—steady up. Care for self, find calm, then tend out."
+    },
+    {
+        "number": 14,
+        "name_eng": "King of Cups",
+        "name_kor": "King of Cups",
+        "img": "https://i.imgur.com/Qny5eZm.jpg",
+        "keywords_upright": [
+            "emotional mastery",
+            "wisdom",
+            "compassion"
+        ],
+        "keywords_reversed": [
+            "emotional stifle",
+            "coldness",
+            "manipulation"
+        ],
+        "description_upright": "Rules emotions wisely, caring with mature grace.",
+        "description_reversed": "Mutes feelings or tries sly mind games.",
+        "love_upright": "Maturely cradles your partner, showing steady love. Heart mastery adds trust’s depth.",
+        "love_reversed": "Stuffed feelings or chill might frost your tie—open up. Controlling risks rift—mind it.",
+        "job_upright": "Reads team hearts well, bridging to trust. Steady feel smooths clashes soft.",
+        "job_reversed": "Hid unrest or frost might irk the crew—show it right. Team needs warm play too.",
+        "money_upright": "Wise cash rule and spare giving shine virtue. Calm calls stack steady gains.",
+        "money_reversed": "Stifled heart might tweak funds sly, or greed flops—curb wants or lose.",
+        "advice_upright": "Blend feel and sense to hold all near—ideal mix. Warm care and fair rules birth trust true.",
+        "advice_reversed": "Unchecked, stuffed emotions burst someday—face self. Fair talk clears all knots."
+    },
+    {
+        "number": 1,
+        "name_eng": "Ace of Swords",
+        "name_kor": "Ace of Swords",
+        "img": "https://i.imgur.com/aLcM506.jpg",
+        "keywords_upright": [
+            "mental clarity",
+            "decisiveness",
+            "truth"
+        ],
+        "keywords_reversed": [
+            "confusion",
+            "uncertainty",
+            "misunderstanding"
+        ],
+        "description_upright": "Wields sharp insight to pierce truth’s veil.",
+        "description_reversed": "Muddies clear calls or tangles talk.",
+        "love_upright": "Clear heart-to-heart can carve new paths in love. Resolve firm? Bare it true—no delay.",
+        "love_reversed": "Inner fog blurs emotional words—tough to share. Misreads loom, so step back for intent.",
+        "job_upright": "New aims or ideas snap clear, urging bold work shifts. Decisive acts reap fruit.",
+        "job_reversed": "Work’s aim blurs, or team chat snags—progress slows. Doubt muddies—recheck facts calm.",
+        "money_upright": "Sharp cash calls and plans can hike gains—clear head rules. Cool analysis and spend reins promise plenty.",
+        "money_reversed": "Rash cash grabs might sink you—greed topples fast. Tighten income-spend watch.",
+        "advice_upright": "Even in haze, truth’s pull lights your way—hold it. Trust self and speak clear—boldly.",
+        "advice_reversed": "Judgment’s off? Slow and sort coolly—no haste. Time and inner ear clear the fog."
+    },
+    {
+        "number": 2,
+        "name_eng": "Two of Swords",
+        "name_kor": "Two of Swords",
+        "img": "https://i.imgur.com/0fqhmS5.jpg",
+        "keywords_upright": [
+            "conflict",
+            "balance",
+            "choice"
+        ],
+        "keywords_reversed": [
+            "indecision",
+            "avoidance",
+            "chaos"
+        ],
+        "description_upright": "Weighs even judgment at a two-way split.",
+        "description_reversed": "Shies from picks or worsens mess with muddle.",
+        "love_upright": "Tugs between sides can still sync with your partner—balance it. Talk true, no rush, to tune feelings.",
+        "love_reversed": "Waffling on words widens heart gaps—face it. Dodging leaves love’s clues lost.",
+        "job_upright": "At work’s fork, weigh coolly—reason rules. Fair talks and balance flip downs to ups.",
+        "job_reversed": "Stalling heaps deadlines or duties heavy—drive wanes? Ask help.",
+        "money_upright": "Pick-twist on invests, but calm checks net even cash wins—smart play. Small gains spread wise.",
+        "money_reversed": "Lost on picks, flailing hikes loss—expert nudge helps. Blind moves cost.",
+        "advice_upright": "Tough? Face it for answers—trust your gut past fear. Balance tips right.",
+        "advice_reversed": "Fear-facing beats bigger mess—too much dodge jams worse. Pick or sway to others’ will."
+    },
+    {
+        "number": 3,
+        "name_eng": "Three of Swords",
+        "name_kor": "Three of Swords",
+        "img": "https://i.imgur.com/CHd5F4O.jpg",
+        "keywords_upright": [
+            "betrayal",
+            "hurt",
+            "grief"
+        ],
+        "keywords_reversed": [
+            "healing",
+            "forgiveness",
+            "recovery"
+        ],
+        "description_upright": "Cuts with deep betrayal or sorrow’s sting.",
+        "description_reversed": "Mends wounds, forgiving to heal anew.",
+        "love_upright": "Rifts or betrayals might scar your heart sharp. Face truth—mending starts there.",
+        "love_reversed": "Old cuts ease—try mending talk now. Honest pardon paves richer love.",
+        "job_upright": "Work spats or slights might bitter you—yet growth’s seed lies here too. Learn and rise.",
+        "job_reversed": "Past flops or fights fade—you’re set to roll on. Lessons sync peers for quick bounce.",
+        "money_upright": "Shock spends or losses might pang—cool heads cut damage. Rally what’s left slow.",
+        "money_reversed": "Cash scars lift—new plans peek out. Past pain’s lessons dodge repeats.",
+        "advice_upright": "Own wound’s truth—it’s healing’s kickoff. Brave chats and guts free you.",
+        "advice_reversed": "Rough’s done—focus heal now. Big heart and self-care soothe scars."
+    },
+    {
+        "number": 4,
+        "name_eng": "Four of Swords",
+        "name_kor": "Four of Swords",
+        "img": "https://i.imgur.com/eA8zpiR.jpg",
+        "keywords_upright": [
+            "rest",
+            "recovery",
+            "meditation"
+        ],
+        "keywords_reversed": [
+            "lingering fatigue",
+            "slow healing",
+            "neglect"
+        ],
+        "description_upright": "Pauses to rest and recharge your core.",
+        "description_reversed": "Skimps rest or drags healing slow.",
+        "love_upright": "Take a beat in love to sort your mind—rest steadies ties. Reset thoughts bond tighter.",
+        "love_reversed": "Rest craved, but piled woes might swell fights soon—tension ignored deepens.",
+        "job_upright": "Ease off work push—rest refills stamina, sharpens plans. Recharge boosts output later.",
+        "job_reversed": "Task flood without break hikes slips or missteps—health’s at stake too.",
+        "money_upright": "Hold off spends or bets—watch keeps it safe now. Steady rule trumps big shifts.",
+        "money_reversed": "Uncurbed spends or missed rest weighs cash—don’t force moves.",
+        "advice_upright": "Slow now—body and soul recovery tops all. Calm regained shows new fixes.",
+        "advice_reversed": "Nonstop runs hit limits—bigger trouble looms. Stop’s vital too."
+    },
+    {
+        "number": 5,
+        "name_eng": "Five of Swords",
+        "name_kor": "Five of Swords",
+        "img": "https://i.imgur.com/dFURUFt.jpg",
+        "keywords_upright": [
+            "conflict win",
+            "selfishness",
+            "distrust"
+        ],
+        "keywords_reversed": [
+            "unfixable rift",
+            "regret",
+            "disgrace"
+        ],
+        "description_upright": "Wins a clash, maybe by unfair play.",
+        "description_reversed": "Post-win remorse or honor’s loss looms.",
+        "love_upright": "Beating partner spats might leave unease—seek joint fixes over harsh wins. It guards better.",
+        "love_reversed": "Big rows past mend tough—but crack your heart first. Win sans sorry’s hollow.",
+        "job_upright": "Outdo work rivals, but if shady, blowback waits—trust’s worth it post-win.",
+        "job_reversed": "Clashes up? Cool talk and mend beats forced wins—respect solves it.",
+        "money_upright": "Shortcuts might gain, but not long—fair’s shaky edge looms. Watch it.",
+        "money_reversed": "Cash win turns late regret or trust bust—unfair flops big later.",
+        "advice_upright": "Win-lust alone sheds allies—see far with fair care.",
+        "advice_reversed": "Clash done? Seek pardon and mend—drop stiff pride for gain."
+    },
+    {
+        "number": 6,
+        "name_eng": "Six of Swords",
+        "name_kor": "Six of Swords",
+        "img": "https://i.imgur.com/KB0BgY2.jpg",
+        "keywords_upright": [
+            "transition",
+            "recovery",
+            "calm"
+        ],
+        "keywords_reversed": [
+            "stagnation",
+            "anxiety",
+            "trapped flight"
+        ],
+        "description_upright": "Flees tough spots for calmer shores.",
+        "description_reversed": "Stays stuck or unsteady despite escape tries.",
+        "love_upright": "Past love’s rough patch, you’ll sail calmer—wounds heal, warmth returns.",
+        "love_reversed": "Know it’s leave-time but pause holds you—bold cuts free stalled feels.",
+        "job_upright": "Ditch troubled tasks or gigs—new chances rise. Shift’s active embrace hikes work wins.",
+        "job_reversed": "Current spot binds, growth slim—fear keeps you from needed leaps.",
+        "money_upright": "Rough cash days ease—you’ll breathe soon. New plans steady step-by-step.",
+        "money_reversed": "Can’t shake old losses or debts—clinging ups harm. Shed past for new trails.",
+        "advice_upright": "Leave hard pasts—new ways calm you slow. Light heart finds peace.",
+        "advice_reversed": "Hesitation locks you—no shift, just fret grows. Unmade calls waste time."
+    },
+    {
+        "number": 7,
+        "name_eng": "Seven of Swords",
+        "name_kor": "Seven of Swords",
+        "img": "https://i.imgur.com/4fnU1s0.jpg",
+        "keywords_upright": [
+            "deceit",
+            "strategy",
+            "solo play"
+        ],
+        "keywords_reversed": [
+            "plans bared",
+            "guilt",
+            "caught"
+        ],
+        "description_upright": "Moves sly or secret for crafty gains.",
+        "description_reversed": "Secrets spill or guilt gnaws within.",
+        "love_upright": "Dishonest masks or hid feels might crack trust—bare them yourself for truth’s sake.",
+        "love_reversed": "Veiled lies or secrets pop, hinting fixes—tough, but true confession clears fog.",
+        "job_upright": "Cunning or lone moves can win—too hush risks team faith’s dip.",
+        "job_reversed": "Secrets out or plans flop—awkward spot. Own up, fix—it might rebuild trust.",
+        "money_upright": "Sneaky cash edges or shortcuts tempt—brief wins might cost later, so weigh it.",
+        "money_reversed": "Hid losses or gaps show, tight spot—spill truth, seek aid for surprise outs.",
+        "advice_upright": "Wise gain’s fine, but honest ways last—clear steps shield you best.",
+        "advice_reversed": "Caught secrets? Own duty, skip excuses—brave sorry opens trust anew."
+    },
+    {
+        "number": 8,
+        "name_eng": "Eight of Swords",
+        "name_kor": "Eight of Swords",
+        "img": "https://i.imgur.com/ivbVWFm.jpg",
+        "keywords_upright": [
+            "restriction",
+            "fear",
+            "trap"
+        ],
+        "keywords_reversed": [
+            "release",
+            "courage",
+            "fixing"
+        ],
+        "description_upright": "Caged by thoughts or outer binds, unable to move.",
+        "description_reversed": "Breaks self-made fears to crack the shell.",
+        "love_upright": "Fear’s grip might stall your love’s push—guts to crack mind walls start anew.",
+        "love_reversed": "Shake fear off, step to them—deep talks smash hard heart walls.",
+        "job_upright": "Work rules or bounds feel like chains—will to break mind limits finds ways.",
+        "job_reversed": "Free from thick worry, you’ll tackle fixes—old quits turn worth retrying with hope.",
+        "money_upright": "Debt or big spends choke—ways out exist, so re-see cash flows clear.",
+        "money_reversed": "Cash binds ease—you’ll breathe free. Thrift and smart plans flip it.",
+        "advice_upright": "Your heart holds freedom’s key from your jail—outside aid or wide eyes start untying.",
+        "advice_reversed": "Shed worry and limits for free thought’s shot—drop binding notions and act."
+    },
+    {
+        "number": 9,
+        "name_eng": "Nine of Swords",
+        "name_kor": "Nine of Swords",
+        "img": "https://i.imgur.com/1ZekK1s.jpg",
+        "keywords_upright": [
+            "anxiety",
+            "worry",
+            "nightmares"
+        ],
+        "keywords_reversed": [
+            "relief",
+            "stress ease",
+            "wake-up"
+        ],
+        "description_upright": "Torments with dire frets, sleepless dread, or mind’s unrest.",
+        "description_reversed": "Spots trouble’s root for calm or stress’s fade.",
+        "love_upright": "Love woes or one-way pangs might haunt nights—don’t trap in dark visions, seek talk’s cure.",
+        "love_reversed": "Suffered plenty? Fears might thin—true chats could melt mix-ups.",
+        "job_upright": "Work’s load keeps sleep at bay—overwork and frets stack. Are fears bigger than real?",
+        "job_reversed": "Knotty issues’ fixes peek, or exits calm mind—missed shots now gleam for leaps.",
+        "money_upright": "Cash stress might spike—don’t rush, firm plans calm it.",
+        "money_reversed": "Money fears fade slow—smart fixes bloom. New gigs or aid ease breath.",
+        "advice_upright": "Shield self from dark thought’s grip—step back might show surprise outs.",
+        "advice_reversed": "Rock-bottom worry lifts—stability nears. Skip false omens, grab real aid bold."
+    },
+    {
+        "number": 10,
+        "name_eng": "Ten of Swords",
+        "name_kor": "Ten of Swords",
+        "img": "https://i.imgur.com/LcYRvAK.jpg",
+        "keywords_upright": [
+            "nadir",
+            "betrayal",
+            "finale"
+        ],
+        "keywords_reversed": [
+            "recovery’s dawn",
+            "new start",
+            "lesson"
+        ],
+        "description_upright": "Hits rock bottom—can’t sink lower.",
+        "description_reversed": "Hints hope or restart from ordeal’s end.",
+        "love_upright": "Stark betrayal or loss might gut your bond—no retreat, seek fresh dawn.",
+        "love_reversed": "Guts to rise from deep cuts sparks new tie hopes—past splits teach mature love prep.",
+        "job_upright": "Work dead-ends full—feels unholdable. End’s a pivot—note it.",
+        "job_reversed": "Big fail hit, but rebuild chances creep—steady base lifts for soon leaps.",
+        "money_upright": "Huge cash blows feel irreparable—not total ruin yet, coolly seek comeback ways.",
+        "money_reversed": "Worst’s past—up’s all left. Grab slim shots, plan tight for resurgence.",
+        "advice_upright": "Bleak as it seems, end’s a start—take pain, find rise paths.",
+        "advice_reversed": "Tunnel’s exit needs some cuts—but light nears. Flop’s wisdom lifts you anew."
+    },
+    {
+        "number": 11,
+        "name_eng": "Page of Swords",
+        "name_kor": "Page of Swords",
+        "img": "https://i.imgur.com/CDtmnSA.jpg",
+        "keywords_upright": [
+            "curiosity",
+            "info hunt",
+            "analysis"
+        ],
+        "keywords_reversed": [
+            "gossip",
+            "mix-up",
+            "haste"
+        ],
+        "description_upright": "Zeals for new know-how with keen breakdown bent.",
+        "description_reversed": "Rash words or wrong facts spark missteps.",
+        "love_upright": "Endless queries on them sprout your tie—don’t overprobe, though.",
+        "love_reversed": "Rumors or chatter might skew love’s core—check straight, cut hurt.",
+        "job_upright": "Mind’s itch and sharp cuts grasp new tasks fast—learn stance speeds growth.",
+        "job_reversed": "Bad info or guesses might flop big—vet over cling to unsure bits.",
+        "money_upright": "Quick on cash tips or bets can gain—prove it true for real take.",
+        "money_reversed": "Green info risks rash spends or bets—reliable data or pros guide best.",
+        "advice_upright": "Kid-curious eyes teach heaps—mind manners, keep caution.",
+        "advice_reversed": "Rumor-swept haste needs curb—facts firm up. Steady core holds you."
+    },
+    {
+        "number": 12,
+        "name_eng": "Knight of Swords",
+        "name_kor": "Knight of Swords",
+        "img": "https://i.imgur.com/5uytORH.jpg",
+        "keywords_upright": [
+            "decisiveness",
+            "speed",
+            "mind drive"
+        ],
+        "keywords_reversed": [
+            "recklessness",
+            "radicalism",
+            "sharp tongue"
+        ],
+        "description_upright": "Rush goals with brain’s might and quick do.",
+        "description_reversed": "Wild words or rash risks endanger you.",
+        "love_upright": "Love needs bold dash to bare your heart—mind their spot, no overrush.",
+        "love_reversed": "Hot words might clash—hold caution tight. Tongue-first cuts their heart.",
+        "job_upright": "Firm push speeds work wins—check tight with haste for top finish.",
+        "job_reversed": "Rash calls or overdo hit snags—tame impatience, reassess cool.",
+        "money_upright": "Snap chance grabs in bets or flows can win—bold with risk reins cuts rue.",
+        "money_reversed": "No-calm bets or spends might lose big—prudent beats haste now.",
+        "advice_upright": "Quick calls and thrust need cool edge too—passion lifts, plan seals it.",
+        "advice_reversed": "Rush mind flops—rest beat calms you. Wide look, then move post-cool."
+    },
+    {
+        "number": 13,
+        "name_eng": "Queen of Swords",
+        "name_kor": "Queen of Swords",
+        "img": "https://i.imgur.com/TyuxUxF.jpg",
+        "keywords_upright": [
+            "wisdom",
+            "independence",
+            "objectivity"
+        ],
+        "keywords_reversed": [
+            "harshness",
+            "isolation",
+            "bias"
+        ],
+        "description_upright": "Stands firm with rational, free judgment.",
+        "description_reversed": "Cold extremes or slant might cut ties.",
+        "love_upright": "Mind over heart aids partner grasp—good. Frank, cool tips wake them up.",
+        "love_reversed": "Too icy might lone them—watch it. Sharp barbs chill love’s heat.",
+        "job_upright": "Logic and free will win work nods—bold fair calls shine in must-dos.",
+        "job_reversed": "Hard on folks or slim sights miss gems—team cracks, lone risk rises.",
+        "money_upright": "Cash breakdown ace—cool, real ways gain. Steady eye off-feel helps heaps.",
+        "money_reversed": "Sole calls might skip aid—wide takes beat just-you picks.",
+        "advice_upright": "Reason-first brings fair insight—right road. Even gaze turns odds your way.",
+        "advice_reversed": "Cold cuts warmth—show some or ties drift. Mind warmth’s need too."
+    },
+    {
+        "number": 14,
+        "name_eng": "King of Swords",
+        "name_kor": "King of Swords",
+        "img": "https://i.imgur.com/3Ed9ueU.jpg",
+        "keywords_upright": [
+            "mind authority",
+            "fairness",
+            "sharp analysis"
+        ],
+        "keywords_reversed": [
+            "dogmatism",
+            "tyranny",
+            "pride"
+        ],
+        "description_upright": "Leads just with keen cuts and fair rule.",
+        "description_reversed": "Overdogma or might earns pushback.",
+        "love_upright": "Fair respect builds trust—real talks over feels firm your tie.",
+        "love_reversed": "My-way stiffens love—might poison feel. Ease off solo calls.",
+        "job_upright": "Sharp sight and judge steer crew—logic lead peaks high wins.",
+        "job_reversed": "Might-only stirs pushback—dogma cracks team. Talk fair’s a must.",
+        "money_upright": "Cool cash calls net big—info grasp nabs bet times right.",
+        "money_reversed": "Solo cash rule might bust hard—mix views, don’t just trust you.",
+        "advice_upright": "Rational lead and just hold aid all—cold’s fine, fair’s right always.",
+        "advice_reversed": "Sway to dogma lones you—hear all, take critique grown."
+    },
+    {
+        "number": 1,
+        "name_eng": "Ace of Pentacles",
+        "name_kor": "Ace of Pentacles",
+        "img": "https://i.imgur.com/89BMKzQ.jpg",
+        "keywords_upright": [
+            "material chance",
+            "stability",
+            "fresh start"
+        ],
+        "keywords_reversed": [
+            "missed shot",
+            "greed",
+            "short sight"
+        ],
+        "description_upright": "Seeds new wealth or real gains and plenty.",
+        "description_reversed": "Skips good odds or overgrab fouls up.",
+        "love_upright": "Stable roots might spark meets or bond growth—small care firms feel.",
+        "love_reversed": "Gain-first cools true love—math-over-heart dims fire.",
+        "job_upright": "Good offers or new gigs steady you—cash or real fruits show, hope up.",
+        "job_reversed": "Miss fine shots or cash woes halt plans—greed flops, so heed.",
+        "money_upright": "New cash streams firm future’s base—step real for big wins.",
+        "money_reversed": "Greed bets might lose more—unsure stakes wait out wise.",
+        "advice_upright": "Small seeds bloom big with care—steady prep reaps surprise plenty.",
+        "advice_reversed": "No-prep rush risks big harm—keep real, ground sane."
+    },
+    {
+        "number": 2,
+        "name_eng": "Two of Pentacles",
+        "name_kor": "Two of Pentacles",
+        "img": "https://i.imgur.com/xKvCwTJ.jpg",
+        "keywords_upright": [
+            "balance",
+            "adaptability",
+            "priority"
+        ],
+        "keywords_reversed": [
+            "disorder",
+            "time fail",
+            "clash"
+        ],
+        "description_upright": "Juggles tasks or means, keeping even keel.",
+        "description_reversed": "Misses rank or sync, sparking mess.",
+        "love_upright": "Syncs life’s bits and feels, balancing love’s spark—shared days liven it.",
+        "love_reversed": "No rank skips dates or hearts—neglect gaps you wide.",
+        "job_upright": "Deftly tunes many tasks—flex shines for top play.",
+        "job_reversed": "Time slip or task split overworks or drops big—cool rank cuts chaos.",
+        "money_upright": "Spread bets or plans hike gains—tight watch holds even.",
+        "money_reversed": "Wild spends or multi-tries snag recovery—retool flows fast.",
+        "advice_upright": "Even keel sails smooth—don’t drop flex think or shift feel.",
+        "advice_reversed": "Multi-fix flops messy—pick and stick’s now’s call."
+    },
+    {
+        "number": 3,
+        "name_eng": "Three of Pentacles",
+        "name_kor": "Three of Pentacles",
+        "img": "https://i.imgur.com/Qvw2e55.jpg",
+        "keywords_upright": [
+            "teamwork",
+            "skill",
+            "collaboration"
+        ],
+        "keywords_reversed": [
+            "no teamwork",
+            "raw skill",
+            "talk snag"
+        ],
+        "description_upright": "Hits goals via team sync and skill boost.",
+        "description_reversed": "Lacks group flow or know-how, hitting bumps.",
+        "love_upright": "Joint build joys firm your tie—team up, root love deep.",
+        "love_reversed": "Slack give or no heart swap sparks fights—one-side asks crack easy.",
+        "job_upright": "Crew sync nails projects—team skill blend wows results.",
+        "job_reversed": "Broke team lags aims—talk gaps grate. Share woes, reset roles.",
+        "money_upright": "Group bets or gigs promise good—all talents mix for more cash.",
+        "money_reversed": "Cash split gripes or team unfairness stir fights—fair rules or just strife.",
+        "advice_upright": "Learn and team up—growth’s base. Share, back, step up for big fruit.",
+        "advice_reversed": "Skip team worth, lone push binds you—talk bold, reforge sync."
+    },
+    {
+        "number": 4,
+        "name_eng": "Four of Pentacles",
+        "name_kor": "Four of Pentacles",
+        "img": "https://i.imgur.com/Ony6aPx.jpg",
+        "keywords_upright": [
+            "stability",
+            "possession",
+            "control"
+        ],
+        "keywords_reversed": [
+            "fixation",
+            "stinginess",
+            "fear"
+        ],
+        "description_upright": "Guards wealth and means for steady hold.",
+        "description_reversed": "Overclutch or tight fists stall growth.",
+        "love_upright": "Aims trust to them, but grab might thicken—fair space deepens feel.",
+        "love_reversed": "Jealous clutch chokes them—love’s bind blocks flow, ease up.",
+        "job_upright": "Steady spot holds—tight means and order eye next steps up.",
+        "job_reversed": "Hard grip or fix might rub peers wrong—open for team ways too.",
+        "money_upright": "Safe wealth guard and saves firm cash—focus thrift over wild bets.",
+        "money_reversed": "Tight or fix loses shots—flow jams, too much hold spills gains.",
+        "advice_upright": "Firm base rocks—check greed’s edge. Fair give calls plenty too.",
+        "advice_reversed": "Overgrab dims joy—open hands let new in, relax mind."
+    },
+    {
+        "number": 5,
+        "name_eng": "Five of Pentacles",
+        "name_kor": "Five of Pentacles",
+        "img": "https://i.imgur.com/vPjIAvH.jpg",
+        "keywords_upright": [
+            "lack",
+            "need",
+            "outsider"
+        ],
+        "keywords_reversed": [
+            "mend",
+            "aid found",
+            "hope"
+        ],
+        "description_upright": "Hits hard times or lone feels in cash or heart.",
+        "description_reversed": "Help or upturn lifts you from rough patches.",
+        "love_upright": "Cash or feel lacks shade your tie—no lean or aid hikes doubt.",
+        "love_reversed": "Bit help or care in tough bridges hearts—trust mends to beat woes.",
+        "job_upright": "Crew cuts or shifts toughen days—lone vibe needs guts for outs.",
+        "job_reversed": "Rough stretch passes—boss or peer aid sparks leaps if you hold.",
+        "money_upright": "Shock spends or less cash pinch—fund aid’s a thought now.",
+        "money_reversed": "Cash rut lifts—new gigs ease up. Flops teach, plan tight for steady.",
+        "advice_upright": "Beat woes with aid-ask guts—don’t shrink, move for fix clues.",
+        "advice_reversed": "Mend light glows—don’t quit. Own up, take hands to rise quick."
+    },
+  {
+        "number": 6,
+        "name_eng": "Six of Pentacles",
+        "name_kor": "Six of Pentacles",
+        "img": "https://i.imgur.com/I1hdLcr.jpg",
+        "keywords_upright": [
+            "sharing",
+            "generosity",
+            "balanced exchange"
+        ],
+        "keywords_reversed": [
+            "dependency",
+            "unfairness",
+            "expecting reward"
+        ],
+        "description_upright": "Energy of giving and receiving is balanced, symbolizing mutual aid and sharing.",
+        "description_reversed": "Warns of one-sided relationships or selfish expectations of reward.",
+        "love_upright": "Caring and giving to each other will ripen affection. Balanced give-and-take will mature your relationship.",
+        "love_reversed": "Expecting too much from your partner or one-sided giving can build resentment. Unfair relationships are hard to sustain, so adjustment is needed.",
+        "job_upright": "You may receive help from colleagues or superiors, or assist juniors. Reciprocal benefits will lead to mutually beneficial outcomes.",
+        "job_reversed": "Continuously giving or receiving help one-sidedly can increase fatigue. Inequitable structures may lead to conflicts, so be cautious.",
+        "money_upright": "If you have the means, practicing donation or sharing is favorable, and kindness may return. Small acts of generosity can lead to greater profits.",
+        "money_reversed": "Lending or giving with expectations of gain may result in loss. Both giver and receiver must maintain balance.",
+        "advice_upright": "A mindset of sharing and helping enriches situations. Even small, sincere gestures will bear abundant fruit.",
+        "advice_reversed": "Forcing generosity out of obligation or receiving without reciprocation creates imbalance. To preserve benefits and relationships, maintain equilibrium."
+    },
+    {
+        "number": 7,
+        "name_eng": "Seven of Pentacles",
+        "name_kor": "Seven of Pentacles",
+        "img": "https://i.imgur.com/hiwV9n7.jpg",
+        "keywords_upright": [
+            "patience",
+            "evaluation",
+            "long-term investment"
+        ],
+        "keywords_reversed": [
+            "disappointment",
+            "insufficient results",
+            "impatience"
+        ],
+        "description_upright": "Symbolizes consistent investment for long-term goals and intermediate assessment.",
+        "description_reversed": "Indicates disappointment or haste due to slow or underwhelming results.",
+        "love_upright": "With patience, your relationship can mature over time. Without rushing, watching each other's growth will foster deeper affection.",
+        "love_reversed": "If progress stalls despite waiting, disappointment may grow. If patience alone isn't working, seek direction through honest conversation.",
+        "job_upright": "Efforts accumulated so far will gradually show results. Slow but steady progress will lead to significant achievements.",
+        "job_reversed": "Impatience may arise from minimal results relative to effort. Rushing can cause greater losses, so proceed with caution.",
+        "money_upright": "Long-term investments or savings may start yielding profits. With patience, you can expect financial abundance.",
+        "money_reversed": "Disappointment in investments or savings may lead to giving up midway, wasting previous efforts. Maintain a long-term perspective instead of impatience.",
+        "advice_upright": "You are in the stage of watching seeds grow after planting. Do not rush; a steady nurturing mindset is necessary.",
+        "advice_reversed": "Even if results are slow, do not give up easily. Suppress impatience and reassess your goals to seize the next opportunity."
+    },
+    {
+        "number": 8,
+        "name_eng": "Eight of Pentacles",
+        "name_kor": "Eight of Pentacles",
+        "img": "https://i.imgur.com/48NsQrX.jpg",
+        "keywords_upright": [
+            "diligence",
+            "mastery",
+            "hard work"
+        ],
+        "keywords_reversed": [
+            "boredom",
+            "lack of focus",
+            "mistakes"
+        ],
+        "description_upright": "Represents dedicated effort to refine skills and build expertise.",
+        "description_reversed": "Suggests that despite effort, lack of concentration or errors may delay growth.",
+        "love_upright": "Consistent care and effort will deepen your relationship. Sincere attention to your partner will make you a reliable support for each other.",
+        "love_reversed": "Neglecting effort due to fatigue may cause the relationship to stagnate. Losing even small gestures can jeopardize love.",
+        "job_upright": "Immersing yourself in work and accumulating skills and experience is crucial now. Diligence will earn recognition from superiors and colleagues.",
+        "job_reversed": "Appearing diligent but lacking focus may lead to repeated mistakes and slow progress. Recheck details and regain your determination.",
+        "money_upright": "Steadily increasing income through work will build a stable financial foundation. Even small earnings, when saved diligently, will become significant assets.",
+        "money_reversed": "Lack of perseverance or careless management may reduce income. Minimize mistakes and refocus to prevent larger losses.",
+        "advice_upright": "Effort and sincerity will shine now; prioritize fundamentals over shortcuts. Consistency is the key to success.",
+        "advice_reversed": "Laziness or indifference is akin to missing opportunities yourself. Reorganize your mindset and concentrate to advance to the next stage."
+    },
+    {
+        "number": 9,
+        "name_eng": "Nine of Pentacles",
+        "name_kor": "Nine of Pentacles",
+        "img": "https://i.imgur.com/WiSUnRU.jpg",
+        "keywords_upright": [
+            "abundance",
+            "independence",
+            "self-sufficiency"
+        ],
+        "keywords_reversed": [
+            "dependence",
+            "wastefulness",
+            "luxury"
+        ],
+        "description_upright": "Symbolizes material stability and independence, enjoying prosperity.",
+        "description_reversed": "Excessive consumption or luxury may threaten long-term stability.",
+        "love_upright": "Enjoying personal freedom and satisfaction, having succeeded in standing alone. A relaxed attitude will bring comfort to both of you.",
+        "love_reversed": "Focusing only on your own comfort may neglect your partner, creating distance. Being absorbed in self-satisfaction can lead to losing the other's heart.",
+        "job_upright": "Efforts thus far bear fruit, providing professional stability. Performing independent roles will lead to a free and abundant environment.",
+        "job_reversed": "Achievements may be overshadowed by excessive pride or luxury. Failing to control yourself may cause you to miss the next growth opportunity.",
+        "money_upright": "Material abundance increases assets or brings financial comfort. Enjoy it, but also plan for the future to secure a safer foundation.",
+        "money_reversed": "Vanity-driven overspending may deplete accumulated wealth. Practice restraint and planning to maintain long-term stability.",
+        "advice_upright": "Celebrate personal achievements, but also have the generosity to share joy with others. Sharing will bring greater happiness.",
+        "advice_reversed": "Focusing solely on your own satisfaction may lead to loneliness. Harmony with others is necessary for true abundance and contentment."
+    },
+    {
+        "number": 10,
+        "name_eng": "Ten of Pentacles",
+        "name_kor": "Ten of Pentacles",
+        "img": "https://i.imgur.com/OK17jqb.jpg",
+        "keywords_upright": [
+            "legacy",
+            "family",
+            "long-term stability"
+        ],
+        "keywords_reversed": [
+            "financial issues",
+            "family conflict",
+            "ruin"
+        ],
+        "description_upright": "Represents wealth and stability accumulated over time, family traditions, or lineage.",
+        "description_reversed": "Warns of stability being threatened by property disputes or family conflicts.",
+        "love_upright": "Enjoying emotional stability with family or close ones. The foundation for a long-lasting relationship becomes stronger.",
+        "love_reversed": "Appearing harmonious on the surface, but internal dissatisfaction may accumulate. Without honest dialogue, the relationship may waver.",
+        "job_upright": "Through long-term efforts, you can establish a stable position or reputation within the organization. The foundation built with colleagues will be a strong support.",
+        "job_reversed": "Conflicts with close associates over financial issues or interests may arise. Even minor issues can escalate if accumulated, so mediation is necessary.",
+        "money_upright": "Long-term investments or businesses bear fruit, allowing you to enjoy abundance. Together with family or partners, you can pursue stability.",
+        "money_reversed": "Property distribution or inheritance issues may intensify conflicts with family. Without clear and fair procedures, wounds may remain, so be cautious.",
+        "advice_upright": "Respect the traditions and values built over time and expand further. Abundance shines brighter when shared, so keep a mindset of sharing.",
+        "advice_reversed": "Do not ignore the problems behind the seemingly harmonious facade. Addressing fundamental conflicts through dialogue will restore stability."
+    },
+    {
+        "number": 11,
+        "name_eng": "Page of Pentacles",
+        "name_kor": "Page of Pentacles",
+        "img": "https://i.imgur.com/k0GRBaw.jpg",
+        "keywords_upright": [
+            "learning",
+            "practical ideas",
+            "growth"
+        ],
+        "keywords_reversed": [
+            "laziness",
+            "failure to pursue profit",
+            "lack of concentration"
+        ],
+        "description_upright": "Symbolizes acquiring new skills or knowledge and setting realistic goals.",
+        "description_reversed": "Laziness or lack of focus may cause missed opportunities.",
+        "love_upright": "Caring for your partner and striving for mutual growth will deepen love. Sincere attention to small things will lead to great感動.",
+        "love_reversed": "Distracted attention may lead to neglecting your partner, or pursuing only profit may cool the relationship quickly. Lack of sincerity won't last long.",
+        "job_upright": "Learning new tasks or skills will expand your capabilities. With effort, rapid growth can be expected.",
+        "job_reversed": "Laziness or lack of focus may delay project progress or miss opportunities. A hands-on learning attitude is needed.",
+        "money_upright": "Even small amounts, when saved and managed, can grow into significant assets. Implement feasible ideas step by step.",
+        "money_reversed": "Chasing short-term gains or easy paths may lead to failure. Without diligence and principles, expected results are hard to achieve.",
+        "advice_upright": "Even small goals, when nurtured sincerely, lead to valuable achievements. Do not fear learning and maintain humility.",
+        "advice_reversed": "Laziness or impatience often results in disappointment. Reexamine the basics and immerse yourself calmly."
+    },
+    {
+        "number": 12,
+        "name_eng": "Knight of Pentacles",
+        "name_kor": "Knight of Pentacles",
+        "img": "https://i.imgur.com/FruqdsG.jpg",
+        "keywords_upright": [
+            "steadiness",
+            "diligence",
+            "practicality"
+        ],
+        "keywords_reversed": [
+            "stubbornness",
+            "delay",
+            "boredom"
+        ],
+        "description_upright": "Represents steady effort and a practical approach, quietly advancing toward goals.",
+        "description_reversed": "Inflexibility may slow progress or cause boredom.",
+        "love_upright": "Building affection slowly but surely will stabilize the relationship. Diligence and trust will lead to steady development.",
+        "love_reversed": "Insisting on maintaining the status quo may bore your partner. Lack of conversation and events can easily lead to tedium.",
+        "job_upright": "Working diligently will gradually earn recognition. Instead of reckless leaps, aim for stable progress to receive high evaluations within the organization.",
+        "job_reversed": "Stubbornly sticking to one method may delay development. Inflexibility can increase stagnation and frustration, so seek improvements.",
+        "money_upright": "Pursuing stable income will lead to slow but certain financial growth. Meticulousness and caution will prevent major mistakes.",
+        "money_reversed": "Excessive steadfastness may miss opportunities due to inability to respond to changes. Regularly check the surrounding situation to avoid missing trends.",
+        "advice_upright": "Even if slow, steadily taking one step at a time will eventually reach the destination. Remember that patience is a virtue.",
+        "advice_reversed": "Being inflexible will block communication with others. Be wise to adjust with flexible thinking and accept others' opinions."
+    },
+    {
+        "number": 13,
+        "name_eng": "Queen of Pentacles",
+        "name_kor": "Queen of Pentacles",
+        "img": "https://i.imgur.com/Xe1ZpRs.jpg",
+        "keywords_upright": [
+            "practicality",
+            "nurturing",
+            "sense of security"
+        ],
+        "keywords_reversed": [
+            "overprotection",
+            "financial dependence",
+            "escapism"
+        ],
+        "description_upright": "Seeks material and emotional stability, caring for those around them.",
+        "description_reversed": "Overprotecting oneself or others, or becoming financially dependent.",
+        "love_upright": "Providing warm care and practical security to your partner will build trust. Offering both material and emotional support will deepen the relationship.",
+        "love_reversed": "Excessive interference or overprotection may burden your partner. Overdependence financially or emotionally can lead to loss of freedom for both.",
+        "job_upright": "With practical sense and nurturing leadership, you can support and grow the team. Active support and stable management will lead to achievements.",
+        "job_reversed": "High responsibility may turn into over-interference, causing dissatisfaction among colleagues. Not respecting others' autonomy can disrupt teamwork.",
+        "money_upright": "Stably managing finances and showing generosity to help others. Sharing abundance will lead to greater happiness.",
+        "money_reversed": "Excessive spending for others or financial dependence may cause conflicts. Unilateral decisions can lead to misunderstandings, so be careful.",
+        "advice_upright": "While maintaining basic stability, showing generosity to care for others will shine. A practical yet warm attitude will benefit everyone.",
+        "advice_reversed": "Excessive protection or sacrifice can backfire. Have the wisdom to maintain appropriate distance so that others can stand on their own."
+    },
+    {
+        "number": 14,
+        "name_eng": "King of Pentacles",
+        "name_kor": "King of Pentacles",
+        "img": "https://i.imgur.com/uf1Fl3k.jpg",
+        "keywords_upright": [
+            "abundance",
+            "responsibility",
+            "practical leadership"
+        ],
+        "keywords_reversed": [
+            "materialism",
+            "greed",
+            "stubbornness"
+        ],
+        "description_upright": "Symbolizes a leader with material stability, business acumen, and responsibility.",
+        "description_reversed": "Excessive materialism or greed may lead to loss of trust from others.",
+        "love_upright": "Showing a responsible attitude will give your partner trust, leading the relationship stably. You will be a reliable support both materially and spiritually.",
+        "love_reversed": "Flaunting authority or wealth may cause your partner to feel aversion. Remember that true affection cannot be bought with possessions.",
+        "job_upright": "With excellent business sense and leadership, you can support and grow the organization. Abundant results will benefit everyone, earning recognition.",
+        "job_reversed": "Pursuing only profit may demoralize colleagues, and stubborn unilateralism can cause conflicts. Excessive greed can lead to loss of achievements, so be cautious.",
+        "money_upright": "Financially abundant, with high potential for significant profits from investments or businesses. Rational judgment and responsibility will lead to greater abundance.",
+        "money_reversed": "Excessive attachment and greed may lead to loss of財産 or trust. Do not blindly trust your own judgment; consider various perspectives.",
+        "advice_upright": "Exercising generous leadership based on a practical foundation will enrich both yourself and others. A spirit of sharing will bring true prosperity.",
+        "advice_reversed": "Let go of stubbornness and greed, and be open to others' opinions and help. Misguided attachment can make it difficult to protect what you have."
+    }
+]
+
+
+
+
+
+
+
+
+
