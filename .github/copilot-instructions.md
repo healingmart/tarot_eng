@@ -1,0 +1,2 @@
+# HealingMart mandatory font instruction
+Read [HealingMart font policy](https://github.com/healingmart/healingmart-cloudflare-guide-test/blob/policy/pretendard-20261028/FONT_POLICY.md) and AGENTS.md before editing UI, CSS, SVG or deployment scripts. Use locally hosted Pretendard Variable (OFL) by default, verified Noto Sans for other languages. No paid, unlicensed, OS-proprietary fonts (Malgun Gothic, Arial, Segoe UI, etc.) and no external-font-CDN dependency. Require a real pre-build/pre-deploy font audit and do not deploy production as part of this policy rollout.
